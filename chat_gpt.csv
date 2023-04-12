@@ -1,0 +1,5124 @@
+2012, 1, 1, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Topic: Equations and Inequalities\n\nTo find the cost of a ticket for each age category, we can set up a system of equations based on the given information.\n\nLet $u$, $m$, and $o$ represent the cost of a ticket for those under 16 years old, between 16 and 65 years old, and over 65 years old, respectively. Then we can write the following system of equations:\n\n\\begin{align*}\n9u + 6m + 4o &= 162.03 \\\\\n7u + 5m + 3o &= 128.36 \\\\\n10u + 4m + 6o &= 158.50\n\\end{align*}\n\nSolving this system of equations, we get $u = 5.99$, $m = 11.01$, and $o = 6.00$. Therefore, the cost of a ticket for those under 16 years old is \\$5.99, for those between 16 and 65 years old is \\$11.01, and for those over 65 years old is \\$6.00.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679974756,
+  "id": "chatcmpl-6yuSyiqbYW7LS9Siel7e0Gd2h1t9k",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 232,
+    "prompt_tokens": 440,
+    "total_tokens": 672
+  }
+}
+2012, 1, 10, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Topic: Differentiation and its Applications\n\nSubtopics:\n- Optimization\n- Related rates.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679974776,
+  "id": "chatcmpl-6yuTIuPf4H5e15i20iNQoQeXB5WV8",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 18,
+    "prompt_tokens": 481,
+    "total_tokens": 499
+  }
+}
+2012, 1, 11, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "- Differentiation and its Applications\n- Integration\n- Applications of Integrations - Area and Volume",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679974779,
+  "id": "chatcmpl-6yuTLRVi6mz8WUvbAKTZdaSvVpyhL",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 19,
+    "prompt_tokens": 451,
+    "total_tokens": 470
+  }
+}
+2012, 1, 2, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Topic: Integration.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679974781,
+  "id": "chatcmpl-6yuTNkhJWbFcOpUGLSh9vm2OlhkaT",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 4,
+    "prompt_tokens": 290,
+    "total_tokens": 294
+  }
+}
+2012, 1, 3, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Sequences and Series",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679974782,
+  "id": "chatcmpl-6yuTOuCzdhmX0oT5NODCVsWqL6Txm",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 4,
+    "prompt_tokens": 379,
+    "total_tokens": 383
+  }
+}
+2012, 1, 4, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "1. Trigonometry\n2. Small Angle Approximations. ",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679974783,
+  "id": "chatcmpl-6yuTPyqQaLakVfOelr3koT86U3qts",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 14,
+    "prompt_tokens": 316,
+    "total_tokens": 330
+  }
+}
+2012, 1, 5, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Vectors.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679974785,
+  "id": "chatcmpl-6yuTRGnFL4k4DRFwxL8LWnsnBGBVV",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 2,
+    "prompt_tokens": 383,
+    "total_tokens": 385
+  }
+}
+2012, 1, 6, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Topic: Complex Numbers",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679974786,
+  "id": "chatcmpl-6yuTSKF7lCKb7uZrhljFrvX3adsJM",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 4,
+    "prompt_tokens": 346,
+    "total_tokens": 350
+  }
+}
+2012, 1, 7, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "\\begin{enumerate}\n\\item This is a straightforward proof using the definition of self-inverse functions: \n$$g(g(x))=\\frac{\\frac{x+k}{x-1}+k}{\\frac{x+k}{x-1}-1}=\\frac{x+k+k(x-1)}{x+k-k}=x,$$\nwhich shows that $g(g(x))=x$. Hence, $g$ is self-inverse.\n\\item To sketch the curve $y=g(x)$ when $k>0$, we start by finding the vertical and horizontal asymptotes of the curve:\n$$\\lim_{x\\to1^+}g(x)=+\\infty \\quad \\text{and} \\quad \\lim_{x\\to1^-}g(x)=-\\infty,$$\nso $x=1$ is a vertical asymptote. To find the horizontal asymptote, we divide the numerator and denominator of $g(x)$ by $x$ and take the limit as $x$ goes to infinity:\n$$\\lim_{x\\to\\infty}g(x)=\\lim_{x\\to\\infty}\\frac{1+k/x}{1-1/x}=1,$$\nwhich means $y=1$ is a horizontal asymptote.  Next, we find the $x$- and $y$-intercepts: \n\\begin{align*}\n&\\text{When }y=0,\\quad 0=\\frac{x+k}{x-1}\\quad\\Rightarrow\\quad x=-k;\\\\\n&\\text{When }x=0,\\quad g(0)=\\frac{k}{-1}=k.\n\\end{align*}\nHence, the curve crosses the $x$-axis at $( -k, 0)$ and the $y$-axis at $(0,k)$. Now, we put together all the information we have to sketch the curve. Let $k=2$ for example:\n\\begin{center}\\includegraphics[scale=0.5]{img/selfinverse}\\end{center}\n\\item The line of symmetry of the curve is the vertical line passing through $x=1$. To transform the curve $y=\\frac{1}{x}$ onto $y=g(x)$ and maintain the line of symmetry at $x=1$, we can apply the following sequence of transformations: \n\\begin{enumerate}\n\\item Reflect the curve $y=\\frac{1}{x}$ about the line $x=1$ to get $y=-\\frac{1}{x-2}.$\n\\item Stretch the curve horizontally by a factor of $k-2$ to obtain $y=-\\frac{1}{(k-2)(x-2)}.$\n\\item Finally, stretch the curve vertically by a factor of $-1$ to obtain $y=\\frac{1}{(2-k)(x-2)},$ which is the desired curve $y=g(x)$.\n\\end{enumerate}\n\\end{enumerate}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679974787,
+  "id": "chatcmpl-6yuTTKL1tskLJx496sikqwT0LxgIB",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 622,
+    "prompt_tokens": 412,
+    "total_tokens": 1034
+  }
+}
+2012, 1, 8, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "\\begin{enumerate}\n\\item We start by differentiating the equation implicitly with respect to $x$: \n\\begin{align*}\n\\frac{d}{dx}\\left(x-y\\right) & =\\frac{d}{dx}\\left[\\left(x+y\\right)^{2}\\right]\\\\\n1-\\frac{dy}{dx} & =2\\left(x+y\\right)\\left(1+\\frac{dy}{dx}\\right).\n\\end{align*}\nSimplifying gives \n\\[\n1+\\frac{dy}{dx}=\\frac{2}{2x+2y+1}.\n\\]\nas required.\n\\item To find $\\frac{d^{2}y}{dx^{2}}$, we differentiate the expression in part (a): \n\\begin{align*}\n\\frac{d}{dx}\\left(1+\\frac{dy}{dx}\\right) & =\\frac{d}{dx}\\left(\\frac{2}{2x+2y+1}\\right)\\\\\n-\\left(1+\\frac{dy}{dx}\\right)^{2}\\frac{d^{2}y}{dx^{2}} & =-\\frac{4}{\\left(2x+2y+1\\right)^{2}}\\frac{d}{dx}\\left(2x+2y+1\\right).\n\\end{align*}\nDifferentiating $x-y=\\left(x+y\\right)^{2}$ with respect to $x$ gives $$1-\\frac{dy}{dx}=2(x+y)\\left(1+\\frac{dy}{dx}\\right) $$ or $$\\frac{d^{2}y}{dx^{2}}=-\\frac{2}{(1+dy/dx)}\\frac{d}{dx}(x+y)-\\left(1+\\frac{dy}{dx}\\right)^{2}\\frac{d^{2}y}{dx^{2}}.$$ Combining both equations and simplifying will give us \n\\[\n\\frac{d^{2}y}{dx^{2}}=-\\left(1+\\frac{dy}{dx}\\right)^{3},\n\\]\nas required.\n\\item At a turning point, $\\frac{dy}{dx}=0$ and $\\frac{d^{2}y}{dx^{2}}$\nexists. Using the result from part (b), we have \n\\[\n\\frac{d^{2}y}{dx^{2}}=-\\left(1+\\frac{dy}{dx}\\right)^{3}=-1^{3}=-1,\n\\]\nsince $\\frac{dy}{dx}$ vanishes. Therefore, the turning point is a maximum, since the second derivative is negative.\n\\end{enumerate}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679974839,
+  "id": "chatcmpl-6yuUJXSOMKPka3HlcIiNh2f8IImsq",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 570,
+    "prompt_tokens": 328,
+    "total_tokens": 898
+  }
+}
+2012, 1, 9, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Vectors.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679974886,
+  "id": "chatcmpl-6yuV4aiiIBPY6fumoMboHWW5Om3pP",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 2,
+    "prompt_tokens": 353,
+    "total_tokens": 355
+  }
+}
+2012, 2, 1, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Topic: Differential Equations. \n\nSolution:\n\na) The characteristic equation solves the homogeneous equation $\\frac{d^2 y}{dx^2} = 0$, thus $r=0$ is a double root. The general solution of that differential equation is then $y_h := Ax + B$, where $A, B$ are constants.\n\nFor the particular integral we look for $y_p = Ax^2 + B$, and we calculate the derivative $y_p'' = 2A$. Substituting $y_p, y_p''$ into the differential equation we get\n$$\n2A = 16 - 9x^2.\n$$\nTherefore $A = -\\frac{9}{2}x^2 + 8$, and \n$$\ny = y_h + y_p = Ax + B -\\frac{9}{2}x^2 + 8 = -\\frac{9}{2}x^2 + Ax + 8 + B,\n$$\nwhere $A, B$ are constants.\n\nb) Given that $\\frac{du}{dt} = 16 - 9u^2$, we also know that $t = \\int \\frac{du}{16-9u^2}$. We apply partial fractions, \n$$\n\\frac{1}{16-9u^2} = \\frac{1}{25}\\cdot \\left(\\frac{3}{4+\\sqrt{5}}\\cdot\\frac{1}{u+\\sqrt{5}/3} - \\frac{3}{4-\\sqrt{5}}\\cdot\\frac{1}{u-\\sqrt{5}/3}\\right),\n$$\nwhich gives \n$$\nt = \\frac{1}{25}\\cdot\\frac{3}{4+\\sqrt{5}}\\cdot \\ln \\left| \\frac{u+\\sqrt{5}/3}{1/3} \\right| - \\frac{3}{25}\\cdot\\frac{1}{2}\\cdot\\frac{\\sqrt{5}}{3}\\ln \\left| u^2 - \\frac{2\\sqrt{5}}{3}u + \\frac{1}{3} \\right| + C,\n$$\nwhere $C$ is the constant such that $u(t=0) = 1$ and $u$ is the solution of the differential equation. We can solve $u(t=0) = 1$ for $C$, by plugging in $u=1$ and $t=0$ into the expression above, and we get $C = 0$. Thus \n$$\nt = \\frac{1}{25}\\cdot\\frac{3}{4+\\sqrt{5}}\\cdot \\ln \\left| \\frac{u+\\sqrt{5}/3}{1/3} \\right| - \\frac{\\sqrt{5}}{25}\\cdot\\ln \\left| u^2 - \\frac{2\\sqrt{5}}{3}u + \\frac{1}{3} \\right|.\n$$\nWe can simplify this expression with some algebraic manipulation to get \n$$\nt = \\frac{1}{25} \\cdot \\ln \\left| \\frac{(3+ \\sqrt{5})u + 1}{(3-\\sqrt{5})u + 1} \\right| - \\frac{\\sqrt{5}}{25}\\cdot\\ln \\left| (u-\\frac{\\sqrt{5}}{3})^2 + \\frac{4}{9} \\right|.\n$$\nTherefore, $t$ can be expressed in terms of $u$ as above.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679974887,
+  "id": "chatcmpl-6yuV55CKPOFud2nCjxksHXs0YABwC",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 757,
+    "prompt_tokens": 295,
+    "total_tokens": 1052
+  }
+}
+2012, 2, 10, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "- Probability\n- Discrete Random Variables",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679974945,
+  "id": "chatcmpl-6yuW1wCA0FuRsk0lrVisD5GonP0pq",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 8,
+    "prompt_tokens": 518,
+    "total_tokens": 526
+  }
+}
+2012, 2, 2, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Complex Numbers.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679974947,
+  "id": "chatcmpl-6yuW3N52dMVGHRZMVPLP82JHGdQSF",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 3,
+    "prompt_tokens": 344,
+    "total_tokens": 347
+  }
+}
+2012, 2, 3, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "- Graphing \n- Functions \n- Equations and Inequalities",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679974948,
+  "id": "chatcmpl-6yuW4Se55x2DVoOiDp6AV7YJZcjtQ",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 14,
+    "prompt_tokens": 384,
+    "total_tokens": 398
+  }
+}
+2012, 2, 4, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Sequences and Series.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679974949,
+  "id": "chatcmpl-6yuW5RpoOTs4GW8oGHWJBg81jPz8H",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 5,
+    "prompt_tokens": 513,
+    "total_tokens": 518
+  }
+}
+2012, 2, 5, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Topic: Probability",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679974950,
+  "id": "chatcmpl-6yuW64ZAwOyKSPA0wIePGNo6WxU41",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 3,
+    "prompt_tokens": 359,
+    "total_tokens": 362
+  }
+}
+2012, 2, 6, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Probability/Hypothesis Testing",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679974951,
+  "id": "chatcmpl-6yuW7QfZZ6HmKdR2rXQkYukCPPGqk",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 5,
+    "prompt_tokens": 398,
+    "total_tokens": 403
+  }
+}
+2012, 2, 7, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Permutations and Combinations.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679974952,
+  "id": "chatcmpl-6yuW8pTFhAw2PWSvFwbkwTuaEmwUl",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 6,
+    "prompt_tokens": 353,
+    "total_tokens": 359
+  }
+}
+2012, 2, 8, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "1. Graphing\n",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679974953,
+  "id": "chatcmpl-6yuW9vXM4QXecuLOXJktHFxwwtn2Q",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 5,
+    "prompt_tokens": 718,
+    "total_tokens": 723
+  }
+}
+2012, 2, 9, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Probability, Binomial Distribution",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679974954,
+  "id": "chatcmpl-6yuWAQlhOfa9VFcZECUO1V9iyA7UU",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 5,
+    "prompt_tokens": 469,
+    "total_tokens": 474
+  }
+}
+2013, 1, 1, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Equation $p$ can be written as $x=2z+4$. Substituting this into equation $q$, we get $2(2z+4)-2y+z=6$ which simplifies to $5z-2y=1$. Equation $r$ can be written as $5x-4y+3z=-9$. Substituting $x=2z+4$, we get $10z-4y+3z=-9$ which simplifies to $y=\\frac{13}{4}z+\\frac{9}{4}$. \n\nSubstituting this expression for $y$ into $5z-2y=1$, we get $5z-2(\\frac{13}{4}z+\\frac{9}{4})=1$, \nwhich simplifies to $z=-2$. Substituting this value of $z$ into $y=\\frac{13}{4}z+\\frac{9}{4}$, we get $y=-\\frac{7}{2}$. Substituting $z=-2$ into $x=2z+4$, we get $x=0$. Thus, the point of intersection of $p$, $q$, and $r$ is $(0, -\\frac{7}{2}, -2)$.\n\nIf $\\mu=0$, then equation $r$ is $5x-4y=-9$. This can be written as $5x-4\\left(\\frac{5}{4}x+\\frac{9}{4}\\right)=-9$, which simplifies to $x=3$. Substituting $x=3$ into equation $p$, we get $y$ and $z$ are both $-1$. Thus, $p$ and $q$ intersect at $(3,-1,-1)$ and both planes are parallel to $r$.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679975363,
+  "id": "chatcmpl-6yuclJlHBkUvJNUoYXlOR6ifjynTB",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 392,
+    "prompt_tokens": 299,
+    "total_tokens": 691
+  }
+}
+2013, 1, 10, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Topic: Differential Equations.\n\nSubsequent inputs:\n\\begin{enumerate}\n    \\item Solution of differential equation (A)\n    \\item Finding $y$ in terms of $x$\n    \\item Showing the second derivative of $y$ in terms of $x$\n    \\item Finding equations of straight lines in the family of curves and sketching\n\\end{enumerate}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679975394,
+  "id": "chatcmpl-6yudGjLEiinbLlvwSvbhckIsNooU9",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 77,
+    "prompt_tokens": 463,
+    "total_tokens": 540
+  }
+}
+2013, 1, 11, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "- Parametric Equations (Graphing)\n- Tangent and Normal (Differentiation and its Applications)\n- Finding Coordinates of a Point (Functions)\n- Area under a Curve (Integration)",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679975401,
+  "id": "chatcmpl-6yudN5dp3UqKHUrmBqyLj5K5M5xQA",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 38,
+    "prompt_tokens": 529,
+    "total_tokens": 567
+  }
+}
+2013, 1, 2, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Topic: Functions\n\nWe can rewrite $y$ as\n\\[\ny=x+2+\\frac{3}{x-1}.\n\\]\nNotice that as $x\\rightarrow\\pm\\infty$, $y\\rightarrow\\pm\\infty$. \nAlso, as $x\\rightarrow1^{+}$ or $x\\rightarrow1^{-}$, $y\\rightarrow\\mp\\infty$. \nTherefore, the set of values of $y$ is $\\boxed{(-\\infty,-\\infty)\\cup(-\\infty,-3)\\cup(-3,\\infty)\\cup(\\infty,\\infty)}$.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679975404,
+  "id": "chatcmpl-6yudQ6EwE7ScIDRkJW9UEgnhYX3sV",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 131,
+    "prompt_tokens": 232,
+    "total_tokens": 363
+  }
+}
+2013, 1, 3, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Equations and Inequalities.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679975415,
+  "id": "chatcmpl-6yudbGLgUYiPicieL8pqpFa7kfBQv",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 7,
+    "prompt_tokens": 253,
+    "total_tokens": 260
+  }
+}
+2013, 1, 4, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Complex Numbers.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679975416,
+  "id": "chatcmpl-6yudcRQn7U4XrxSQRpYMgjpLM6lqZ",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 3,
+    "prompt_tokens": 306,
+    "total_tokens": 309
+  }
+}
+2013, 1, 5, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "- Graphing\n- Integration",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679975417,
+  "id": "chatcmpl-6yuddgOhhcKQ2d7JV4cRwqA0w03oL",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 6,
+    "prompt_tokens": 401,
+    "total_tokens": 407
+  }
+}
+2013, 1, 6, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Vectors.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679975423,
+  "id": "chatcmpl-6yudjGHfkYWlqvTcEpUZFbBBFM36f",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 2,
+    "prompt_tokens": 483,
+    "total_tokens": 485
+  }
+}
+2013, 1, 7, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Sequences and Series.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679975424,
+  "id": "chatcmpl-6yudksJghwWSMNqSANUVEoUnUHKRg",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 5,
+    "prompt_tokens": 373,
+    "total_tokens": 378
+  }
+}
+2013, 1, 8, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Complex Numbers.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679975425,
+  "id": "chatcmpl-6yudlrTYP7caLJzmNe0qIfIL3Z6Ky",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 3,
+    "prompt_tokens": 384,
+    "total_tokens": 387
+  }
+}
+2013, 1, 10, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Topic: Differential Equations\n\nSubtopic: Solution of first-order differential equation\n\nSubtopic: Second-order differential equation \n\nSubtopic: Family of curves \n\nSubtopic: Curve sketching",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679975789,
+  "id": "chatcmpl-6yujdjJgofDv2bIMsu0EGemz5gf3D",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 37,
+    "prompt_tokens": 463,
+    "total_tokens": 500
+  }
+}
+2013, 1, 11, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Functions.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679975793,
+  "id": "chatcmpl-6yujhDGJ7EuIRIhzN1reQwLX8qYDQ",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 2,
+    "prompt_tokens": 529,
+    "total_tokens": 531
+  }
+}
+2013, 1, 9, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "a. Mathematical induction is used to prove the given formula.\n\nb. The expression for $f(r)$ is given. Using this, $f(r) - f(r-1)$ is computed to arrive at $ar^{2}$. This is further used to get a formula for $\\sum_{r=1}^{n}r^{2}$.\n\nc. The sum of $f(r)$ is to be found.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679975794,
+  "id": "chatcmpl-6yujiRxyyhurLEJRJ4zuVh99HXvGt",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 86,
+    "prompt_tokens": 381,
+    "total_tokens": 467
+  }
+}
+2013, 2, 1, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "- Functions",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679975801,
+  "id": "chatcmpl-6yujpyyjvNa4MrMdMJd5rYP5p9hYz",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 2,
+    "prompt_tokens": 324,
+    "total_tokens": 326
+  }
+}
+2013, 2, 10, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Topic: Correlation and Regression. \n\nExplanation: This problem deals with scatter diagrams and regression lines. We are required to identify the correlation between the two variables and estimate the value of one variable given the other.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679975802,
+  "id": "chatcmpl-6yujqkKPdu83UxbmrtEKn30AUD8Nx",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 42,
+    "prompt_tokens": 669,
+    "total_tokens": 711
+  }
+}
+2013, 2, 11, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Probability. \n\n1. Combinations\n2. Counting\n3. Combinations\n4. Combinations and Counting.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679975806,
+  "id": "chatcmpl-6yujuxsL2nmOgLPvBb89SIsLF1ida",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 26,
+    "prompt_tokens": 353,
+    "total_tokens": 379
+  }
+}
+2013, 2, 12, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Probability.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679975809,
+  "id": "chatcmpl-6yujxcVhxvzczjrlcpNuyLZrFEmlU",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 2,
+    "prompt_tokens": 533,
+    "total_tokens": 535
+  }
+}
+2013, 2, 2, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "- Geometry/Volumes\n- Differentiation and its Applications",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679975810,
+  "id": "chatcmpl-6yujytNjEbQrUdeqE4SdSc7vtQzbD",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 11,
+    "prompt_tokens": 367,
+    "total_tokens": 378
+  }
+}
+2013, 2, 3, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Differentiation and its Applications",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679975812,
+  "id": "chatcmpl-6yuk0eJJTuVtOXCsZdXmOy7oVVNUd",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 5,
+    "prompt_tokens": 395,
+    "total_tokens": 400
+  }
+}
+2013, 2, 4, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Vectors.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679975813,
+  "id": "chatcmpl-6yuk1vBSUEOC9g065ch4G6oQ0u8Yh",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 2,
+    "prompt_tokens": 368,
+    "total_tokens": 370
+  }
+}
+2013, 2, 5, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Topic: Probability",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679975814,
+  "id": "chatcmpl-6yuk2jVkeXE4IE8intt5qfJD0oM6N",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 3,
+    "prompt_tokens": 321,
+    "total_tokens": 324
+  }
+}
+2013, 2, 6, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Probability, Normal Distribution.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679975815,
+  "id": "chatcmpl-6yuk3y3e9je9uSAk2wVVm56wTutGd",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 5,
+    "prompt_tokens": 249,
+    "total_tokens": 254
+  }
+}
+2013, 2, 7, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Probability, Binomial Distribution, Approximation.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679975816,
+  "id": "chatcmpl-6yuk4lRfAvqS4LN8sf6LMruTCn1KO",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 9,
+    "prompt_tokens": 359,
+    "total_tokens": 368
+  }
+}
+2013, 2, 8, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Topic: Probability\n\nSolution:\n\nWe know that:\n\\begin{align*}\nP(B\\cap A') & = P(B\\mid A')P(A')\\\\\nP(A'\\cap B') & = P(A'\\mid B')P(B')\\\\\nP(A\\cap B) & = P(B\\mid A)P(A)\\\\\n\\end{align*}\n\nWe are given:\n\\begin{alignat*}{2}\n&P(A) &&= 0.7\\\\\n&P(B\\mid A') &&= 0.8 \\Rightarrow P(B' \\mid A') = 0.2\\\\\n&P(A\\mid B') &&= 0.88 \\Rightarrow P(A' \\mid B') = 0.12\\\\\n\\end{alignat*}\n\nNow,\n\\begin{enumerate}\n\\item $P(B\\cap A') = P(B\\mid A')P(A') = 0.8\\times 0.3 = \\boxed{0.24}$\n\\item $P(A'\\cap B') = P(A'\\mid B')P(B') = 0.12\\times (1-0.7) = \\boxed{0.036}$\n\\item Let us use the conditional probability formula:\n\\begin{align*}\nP(B\\mid A) & = \\dfrac{P(A\\cap B)}{P(A)}\\\\\n\\Rightarrow P(A\\cap B) & = P(B\\mid A)P(A) = (1-P(B'\\mid A))P(A)\\\\\n& = (1-0.2)\\times 0.7 = \\boxed{0.56}\n\\end{align*}\n\\end{enumerate}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679975817,
+  "id": "chatcmpl-6yuk5DUOfnElLML8a9hxJ30955I95",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 360,
+    "prompt_tokens": 303,
+    "total_tokens": 663
+  }
+}
+2013, 2, 9, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Topic: Hypothesis Testing.\n\nAssuming that the data is normally distributed, we are required to conduct a t-test to determine whether there is enough evidence to support the motoring magazine editor's belief that the figures quoted by car manufacturers for distances travelled per litre of fuel are too high or not.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679975845,
+  "id": "chatcmpl-6yukXnULz0ijZ6rhOdkSVJGutItGA",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 60,
+    "prompt_tokens": 423,
+    "total_tokens": 483
+  }
+}
+2014, 1, 1, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Functions",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679975850,
+  "id": "chatcmpl-6yukcCt8teCFg0xeYYmJUqWZSlHJc",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 1,
+    "prompt_tokens": 284,
+    "total_tokens": 285
+  }
+}
+2014, 1, 10, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "- Differential Equations",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679975851,
+  "id": "chatcmpl-6yukdPnXrwtsoTSyrFsRaAE506pZ6",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 4,
+    "prompt_tokens": 488,
+    "total_tokens": 492
+  }
+}
+2014, 1, 11, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Topic: Optimization\n\nSolution:\n\nLet the radius of the hemisphere be $r$ cm, and the base radius of the cone be $r$ cm as well. Then the height of the cone is $h = 4 - r$, since the slant height is given as 4cm. \n\nThe total volume of the toy, $V$, is given by:\n\n$$V = \\frac{2}{3} \\pi r^3 + \\frac{1}{3} \\pi r^2 (4-r)$$\n\nSimplifying:\n\n$$V = \\frac{1}{3}\\pi r^2(2r + 4 - r) = \\frac{1}{3}\\pi r^2(4+r)$$\n\nSo, $V$ is a function of $r$. \n\nTo find the value of $r$ that maximizes $V$, we differentiate $V$ with respect to $r$ and set the derivative equal to zero:\n\n$$\\frac{dV}{dr} = \\frac{1}{3}\\pi (8r + 4r^2) = 4\\pi r(2+r)$$\n\nSetting this equal to zero, we get $r=0$ or $r=-2$. Since $r$ must be positive, we discard $r=-2$. \n\nTo show that $r_1$ satisfies $45r^4 - 768r^2 + 1024 = 0$, we can use the quadratic equation to solve for $r^2$ in terms of $r$:\n\n$$4r(2+r) = 0 \\implies r^2 + 2r = 0 \\implies r^2 = -2r$$\n$$\\implies r^3 = -2r^2$$\n\nSubstituting into the expression for $V$:\n\n$$V = \\frac{1}{3}\\pi r^2(4+r) = \\frac{1}{3}\\pi r^2(2r + 4 - r) = \\frac{1}{3}\\pi r^2(2(r^2-2) + 4 - r)$$\n$$= \\frac{1}{3}\\pi r^2(2r^2 - r + 8) = \\frac{1}{3}\\pi r^2 \\cdot 2 \\cdot \\frac{45}{8} = \\frac{15}{4}\\pi r^4$$\n\nThus, maximizing $V$ is equivalent to maximizing $r^4$. So, we can rewrite the equation $V = \\frac{15}{4}\\pi r^4$ as $r^4 = \\frac{4}{15\\pi}V$. \n\nSubstituting into the equation $45r^4 - 768r^2 + 1024 = 0$, we get:\n\n$$45\\left(\\frac{4}{15\\pi}V\\right) - 768\\left(\\frac{4}{15\\pi}\\right)^2 + 1024 = 0$$\n$$\\implies 3V - \\frac{256}{3\\pi} + 1024 = 0$$\n$$\\implies V = \\frac{256}{9\\pi} - \\frac{1024}{3} = \\frac{256 - 3072\\pi}{9\\pi}$$\n\nTo find the corresponding value of $r$, we can use $r^4 = \\frac{4}{15\\pi}V$:\n\n$$r^4 = \\frac{4}{15\\pi} \\cdot \\frac{256 - 3072\\pi}{9\\pi} = \\frac{64 - 256\\pi}{135\\pi^2}$$\n$$\\implies r = \\sqrt[4]{\\frac{64 - 256\\pi}{135\\pi^2}}$$\n\nUsing a calculator, we get:\n\n$$r_1 \\approx 1.492$$\n$$h_1 = 4 - r_1 \\approx 2.508$$\n\nTo sketch the graph of $V$ as $r$ varies, we can substitute the expression $r^4 = \\frac{4}{15\\pi}V$ into the equation $V = \\frac{15}{4}\\pi r^4$ to get:\n\n$$V = \\frac{16}{3\\sqrt{\\pi}} r^{3/2}$$\n\nThis is the equation of a cubic function with positive leading coefficient. The graph starts at the origin and increases without bound as $r$ increases. A rough sketch is shown below:\n\n\\begin{figure}[h!]\n\\centering\n\\includegraphics[width=0.5\\textwidth]{optimization_graph.png}\n\\end{figure} \n\nNote: The diagram is missing from the original problem statement, so it is not included in the solution.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679975852,
+  "id": "chatcmpl-6yukeSDIQEmdh1jvDpWTl500B6yPt",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 1026,
+    "prompt_tokens": 554,
+    "total_tokens": 1580
+  }
+}
+2014, 1, 2, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Topic: Differentiation and its Applications.\n\nTo find the coordinates of the point on $C$ at which the gradient\nis $-1$ means we have to solve for $x$ and $y$ in the system\n$$\n\\begin{cases}\nx^{2}y+xy^{2}+54=0,\\\\\n2xy+x^{2}=0.\n\\end{cases}\n$$\nWe Can solve for $y$ in the second equation to get $y=-\\dfrac{x}{2}$. Substituting it into the first equation gives\n$$\nx^{2}y+xy^{2}+54=0\\Longrightarrow x^{2}\\left(-\\dfrac{x}{2}\\right)+x\\left(-\\dfrac{x^{2}}{4}\\right)+54=0,\n$$\nwhich reduces to $2x^{3}+4\\cdot54=0$. Reshuffling gives $x^{3}=-108$, and the only real solution is $x=-3$. Thus $y=-\\dfrac{x}{2}=\\dfrac{3}{2}$. So the point on $C$ at which the gradient is $-1$ is $(-3,\\frac{3}{2})$. \n\nNote that if we differentiate the equation of the curve $C$, we get\n$$\ny^{2}+2xy+x^{2}=0\\quad\\text{ or }\\quad (y+x)^{2}=0.\n$$\nHence $y=-x$, which is a straight line through the origin with gradient $-1$. It intersects the curve $C$ at the point $(-3,\\frac{3}{2})$. Since this is the only point of intersection, it follows that this is the only point on the curve $C$ at which the gradient is $-1$.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679975931,
+  "id": "chatcmpl-6yulvyN2y6WGalIaSSJnFQvgHcLcX",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 386,
+    "prompt_tokens": 229,
+    "total_tokens": 615
+  }
+}
+2014, 1, 3, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Topic: Vectors.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679975961,
+  "id": "chatcmpl-6yumPWUc08jBH5rwa1NXMWeVfC4fT",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 5,
+    "prompt_tokens": 348,
+    "total_tokens": 353
+  }
+}
+2014, 1, 4, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "This question falls under the topic of Functions.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679975962,
+  "id": "chatcmpl-6yumQryCHWtVJ1R1iiNrg1yPV4lF7",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 9,
+    "prompt_tokens": 417,
+    "total_tokens": 426
+  }
+}
+2014, 1, 5, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Complex numbers. \n\n1. We have $z=1+2i$, so $z^2 = (1+2i)^2 = 1+4i+4i^2 = -3+4i$. \nAlso, $z^3 = (1+2i)^3 = 1+6i+12i^2+8i^3 = -11-2i$, so $\\frac{1}{z^3} = -\\frac{1}{11}-\\frac{2i}{11}$. \n\n2. We have $pz^2 + \\frac{q}{z^3} = pz^2 -q\\frac{1}{z^3}$, so the expression is real if and only if its imaginary part is zero. The imaginary part is $4p + \\frac{2q}{11}$, so we must have $q=-22p$ in order to make it zero. Thus, $pz^2 + \\frac{q}{z^3} = -3p$.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679975964,
+  "id": "chatcmpl-6yumSjYXQTupX90L6wsAItRwFvp1s",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 218,
+    "prompt_tokens": 313,
+    "total_tokens": 531
+  }
+}
+2014, 1, 6, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Sequences and Series:\n- Method of mathematical induction to find a formula for a sequence\n- Sum of terms of a sequence\n- Convergence of a series\n- Formula for individual terms of a sequence based on the sum of its terms.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679975982,
+  "id": "chatcmpl-6yumkioXNoX79Uohd6DzcSW4Lq7ao",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 49,
+    "prompt_tokens": 461,
+    "total_tokens": 510
+  }
+}
+2014, 1, 7, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "- Functions (since the problem involves a given function and questions ask about its properties) \n- Integration (questions 2 and 3 ask for integrals and area) \n- Equations and Inequalities (part 1 asks for finding the roots of the function)",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679975987,
+  "id": "chatcmpl-6yumpmNLvezahhdPd3Fkv6ufIN094",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 55,
+    "prompt_tokens": 466,
+    "total_tokens": 521
+  }
+}
+2014, 1, 8, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "- Integration\n- Binomial Expansion, Maclaurin's Series and Small Angle Approximations.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679975991,
+  "id": "chatcmpl-6yumtRJAugoLyGjXHg48ToJfxDOpR",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 20,
+    "prompt_tokens": 345,
+    "total_tokens": 365
+  }
+}
+2014, 1, 9, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Vectors.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679975993,
+  "id": "chatcmpl-6yumvLws3pROL7mw6OeDYKqqARgaf",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 2,
+    "prompt_tokens": 370,
+    "total_tokens": 372
+  }
+}
+2014, 2, 1, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "- Parametric Equations and Tangents to Curves.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679975994,
+  "id": "chatcmpl-6yumwvkGNUJL0Qpu6vv2zlc5qQlyT",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 12,
+    "prompt_tokens": 309,
+    "total_tokens": 321
+  }
+}
+2014, 2, 10, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Probability.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679975996,
+  "id": "chatcmpl-6yumylcJmEWeRWzsyKW0Bjxciosv0",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 2,
+    "prompt_tokens": 566,
+    "total_tokens": 568
+  }
+}
+2014, 2, 11, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Topic: Probability",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679975997,
+  "id": "chatcmpl-6yumzUFeuabJAJQzG9ivjczmGeqUI",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 3,
+    "prompt_tokens": 462,
+    "total_tokens": 465
+  }
+}
+2014, 2, 2, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Topic: Integration",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679975998,
+  "id": "chatcmpl-6yun0PyZkvpugk9ek5bYlaDSBx9Ix",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 3,
+    "prompt_tokens": 263,
+    "total_tokens": 266
+  }
+}
+2014, 2, 3, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Sequences and Series.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679975999,
+  "id": "chatcmpl-6yun1PATRnIwc3UelzszKtMPHlXt7",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 5,
+    "prompt_tokens": 608,
+    "total_tokens": 613
+  }
+}
+2014, 2, 4, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Complex Numbers.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679976000,
+  "id": "chatcmpl-6yun2ktIiGPqrQrjzwxBU9I2c6CbK",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 3,
+    "prompt_tokens": 433,
+    "total_tokens": 436
+  }
+}
+2014, 2, 5, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Topic: Probability. \n\nExplanation: The problem involves sampling from a population and making inferences about the population using this sample. Specifically, systematic sampling is being used to select the sample. The advantages and disadvantages of systematic sampling are being discussed, which is a topic in statistical sampling theory.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679976001,
+  "id": "chatcmpl-6yun3UWOsQBxZN1QQJ8fPob3gXx7N",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 57,
+    "prompt_tokens": 257,
+    "total_tokens": 314
+  }
+}
+2014, 2, 6, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Permutations and Combinations. \n\n1. This is a simple combination problem where we need to select a certain number of players from the club's roster. \n\n2. In this question, we need to use complementary counting and subtract the number of teams that include both brothers from the total number of teams. \n\n3. This problem involves permutation as we need to choose which player can play as a defender or midfielder.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679976006,
+  "id": "chatcmpl-6yun8iz1JYRCThaUGnDYsZM2s5kNh",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 83,
+    "prompt_tokens": 362,
+    "total_tokens": 445
+  }
+}
+2014, 2, 7, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Topic: Probability.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679976014,
+  "id": "chatcmpl-6yunGsZpDplJRtp4iGdDIVSwN4L4M",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 4,
+    "prompt_tokens": 378,
+    "total_tokens": 382
+  }
+}
+2014, 2, 8, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "- Part (a) - Graphing \n- Part (b) (i) - Probability and Correlation \n- Part (b) (ii) - Correlation and Regression",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679976015,
+  "id": "chatcmpl-6yunHoAhHukGjvCq3nZBtdQhhMob5",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 36,
+    "prompt_tokens": 699,
+    "total_tokens": 735
+  }
+}
+2014, 2, 9, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Hypothesis Testing.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679976018,
+  "id": "chatcmpl-6yunKYTq6xMlMTSeiLo8XFW69XoW5",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 5,
+    "prompt_tokens": 448,
+    "total_tokens": 453
+  }
+}
+2015, 1, 1, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "\\begin{enumerate}\n\\item Topic: Equations and Inequalities\nWe need to use the given information to determine the constants $a$, $b$, and $c$ in the equation $y=\\frac{a}{x^2}+bx+c$. This involves solving a system of linear equations.\n\\item Topic: Equations and Inequalities\nWe need to find the $x$-intercept of the curve, which means finding where $y=0$ in the equation $y=\\frac{a}{x^2}+bx+c$.\n\\item Topic: Equations and Inequalities\nWe are asked to find the equation of an asymptote of the curve. This involves investigating the behavior of the curve as $x$ becomes very large or very small. Specifically, we are looking for a line that the curve gets very close to but does not touch as $x$ goes to either positive or negative infinity.\n\\end{enumerate}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679976019,
+  "id": "chatcmpl-6yunLgnF6l1Ulb5h2ANrRKjCxG2to",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 199,
+    "prompt_tokens": 397,
+    "total_tokens": 596
+  }
+}
+2015, 1, 10, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Equations and Inequalities, Integration.\n\nFunctions are given by $y = \\sin x$ and $y = \\cos x$, sequences and series are not present in the question. \n\nPart (i) relates to the area of the region bounded by curves and the $x$-axis and $y$-axis, which requires finding two integrals. \n\nPart (ii) is about a rotated region, and we need to find the volume of the solid, which requires integration with respect to $y$.\n\nPart (iii) requires a substitution $y = \\sin u$ in the integral from part (ii).",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679976035,
+  "id": "chatcmpl-6yunb34O0M8gnDFlkA3cGzenzYtRn",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 128,
+    "prompt_tokens": 562,
+    "total_tokens": 690
+  }
+}
+2015, 1, 11, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Functions: Parametric equations and finding $\\frac{dy}{dx}$, turning points, applications of integration to find area.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679976045,
+  "id": "chatcmpl-6yunla7Xo66bNcFngTv90Fqoz7lMx",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 25,
+    "prompt_tokens": 516,
+    "total_tokens": 541
+  }
+}
+2015, 1, 2, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Equations and Inequalities",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679976048,
+  "id": "chatcmpl-6yunofEr3xEcWcAhtmcqy66wehk9d",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 6,
+    "prompt_tokens": 262,
+    "total_tokens": 268
+  }
+}
+2015, 1, 3, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "1. Integration\n2. Sequences and Series",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679976049,
+  "id": "chatcmpl-6yunpPgtjM4Yd92vMlzB8KIHrld4W",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 10,
+    "prompt_tokens": 355,
+    "total_tokens": 365
+  }
+}
+2015, 1, 4, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Topic: Optimization\n\nWe are trying to find the maximum area of the rectangle and semicircle combined. This involves optimization, as we need to maximize a function subject to a constraint. Therefore, the relevant topic is optimization.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679976050,
+  "id": "chatcmpl-6yunqX8wt7M3AjvTsJBTO72NHmki0",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 45,
+    "prompt_tokens": 286,
+    "total_tokens": 331
+  }
+}
+2015, 1, 5, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Sequences and Series: \n\nThe question involves sequences of transformations to transform one curve to another, and then asks for a sketch of another curve.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679976054,
+  "id": "chatcmpl-6yunuwXwPjc1kT8UcMlb2XN19QBNu",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 29,
+    "prompt_tokens": 412,
+    "total_tokens": 441
+  }
+}
+2015, 1, 6, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "- Binomial Expansion, Maclaurin's Series and Small Angle Approximations",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679976057,
+  "id": "chatcmpl-6yunxGq1EAwmNrJNd4q4m0d2YRkXb",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 16,
+    "prompt_tokens": 356,
+    "total_tokens": 372
+  }
+}
+2015, 1, 7, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "- Vectors.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679976059,
+  "id": "chatcmpl-6yunzMSZHg7wVYO0jnzmTrKchJJD8",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 4,
+    "prompt_tokens": 471,
+    "total_tokens": 475
+  }
+}
+2015, 1, 8, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Sequences and Series",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679976060,
+  "id": "chatcmpl-6yuo0bdCiwdOzWG9NBXLOhTP0eBlA",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 4,
+    "prompt_tokens": 429,
+    "total_tokens": 433
+  }
+}
+2015, 1, 9, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Complex Numbers",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679976061,
+  "id": "chatcmpl-6yuo1Pe381NlW6IQ8wD0uTQad8V0T",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 2,
+    "prompt_tokens": 451,
+    "total_tokens": 453
+  }
+}
+2015, 2, 1, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "This problem falls under the topic of Differential Equations.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679976062,
+  "id": "chatcmpl-6yuo2OoeyXV8JTFQ9bufXuQglumuf",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 11,
+    "prompt_tokens": 334,
+    "total_tokens": 345
+  }
+}
+2015, 2, 10, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Equations and Inequalities, Correlation and Regression.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679976064,
+  "id": "chatcmpl-6yuo4C6od840fQyX4u5tGcA7n5qO2",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 12,
+    "prompt_tokens": 567,
+    "total_tokens": 579
+  }
+}
+2015, 2, 11, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "1. Permutations and Combinations\n2. Permutations and Combinations\n3. Permutations and Combinations\n4. Permutations and Combinations",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679976065,
+  "id": "chatcmpl-6yuo5pL6SHqJdyRWuVwidJAAq26Bi",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 31,
+    "prompt_tokens": 326,
+    "total_tokens": 357
+  }
+}
+2015, 2, 12, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Topic: Probability, Normal Distribution",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679976068,
+  "id": "chatcmpl-6yuo8S3LfxIVvLHzwljbtmDLnUUA4",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 6,
+    "prompt_tokens": 431,
+    "total_tokens": 437
+  }
+}
+2015, 2, 2, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "- Vectors.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679976069,
+  "id": "chatcmpl-6yuo9HQ1IZgoxEjpdxNM4z5ZuCm6y",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 4,
+    "prompt_tokens": 380,
+    "total_tokens": 384
+  }
+}
+2015, 2, 3, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Functions.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679976070,
+  "id": "chatcmpl-6yuoAbEZcsSkU3QgjBpudENAsHkPK",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 2,
+    "prompt_tokens": 362,
+    "total_tokens": 364
+  }
+}
+2015, 2, 4, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Sequences and Series:\n\\begin{enumerate}\n    \\item Proving a formula using mathematical induction for the sum of a specific sequence.\n    \\item Finding an expression and the value of a partial sum of a series.\n\\end{enumerate}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679976071,
+  "id": "chatcmpl-6yuoBYrnNTZX4Ux9FP6NcBWrX9clf",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 50,
+    "prompt_tokens": 473,
+    "total_tokens": 523
+  }
+}
+2015, 2, 5, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Topic: Probability/ Statistics\n\nSubtopics:\n- Sampling methods\n- Quota sampling\n- Representativeness of samples",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679976075,
+  "id": "chatcmpl-6yuoFQ6SnBWBkmxcAcOxNDAHtFlav",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 24,
+    "prompt_tokens": 291,
+    "total_tokens": 315
+  }
+}
+2015, 2, 6, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "The topic for this question is Probability.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679976078,
+  "id": "chatcmpl-6yuoIgncBMUGqn1inRJMsEz90305i",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 8,
+    "prompt_tokens": 380,
+    "total_tokens": 388
+  }
+}
+2015, 2, 7, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Probability, Discrete Random Variables.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679976079,
+  "id": "chatcmpl-6yuoJPckkR4sNHsMJXo6LqjzuSWwZ",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 7,
+    "prompt_tokens": 372,
+    "total_tokens": 379
+  }
+}
+2015, 2, 8, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Topic: Hypothesis Testing. \n\nIn this problem, we are testing a claim made by the stall owner, using a sample of pineapples to determine if there is evidence to doubt the claim. We begin by finding the sample mean and variance, which are unbiased estimates of the population mean and variance. Then, we use a t-test at the 10% level of significance to determine if the sample provides sufficient evidence to reject the null hypothesis that the true mean mass is at least 0.9 kg.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679976080,
+  "id": "chatcmpl-6yuoKWtlROAh4DIZ4R5oMuzCdpUzv",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 104,
+    "prompt_tokens": 362,
+    "total_tokens": 466
+  }
+}
+2015, 2, 9, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Probability.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679976089,
+  "id": "chatcmpl-6yuoT3eM3ICzpC7wjSPxSt2dt7y3s",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 2,
+    "prompt_tokens": 396,
+    "total_tokens": 398
+  }
+}
+2016, 1, 1, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Equations and Inequalities.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679976090,
+  "id": "chatcmpl-6yuoUOtnztdYUtmxYghCvGSo6K0By",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 7,
+    "prompt_tokens": 254,
+    "total_tokens": 261
+  }
+}
+2016, 1, 10, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Functions",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679976091,
+  "id": "chatcmpl-6yuoVCOalgxxLtojRdFwofTsU5Vlu",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 1,
+    "prompt_tokens": 539,
+    "total_tokens": 540
+  }
+}
+2016, 1, 11, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Vectors.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679976092,
+  "id": "chatcmpl-6yuoWjkRFU9udRQF9okQKQD5cqAj9",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 2,
+    "prompt_tokens": 504,
+    "total_tokens": 506
+  }
+}
+2016, 1, 2, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Differentiation and its Applications.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679976093,
+  "id": "chatcmpl-6yuoXIgxaLkeL0dZK3NYhxYCljESa",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 6,
+    "prompt_tokens": 282,
+    "total_tokens": 288
+  }
+}
+2016, 1, 3, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Topics: Functions\n\n$k\\left(x-l\\right)^{4}+m$ is the transformation of $y=x^{4}$, so we have $k>0$, $l>0$, and $m=b$. Also, the point $\\left(a,b\\right)$ is a turning point, which means that the derivative of $f\\left(x\\right)$ at $x=a$ is $0$ and its second derivative at $x=a$ is negative. We have:\n\n\\begin{align*}\nf\\left(x\\right) & =k\\left(x-l\\right)^{4}+b\\\\\nf'\\left(x\\right) & =4k\\left(x-l\\right)^{3}\\\\\nf''\\left(x\\right) & =12k\\left(x-l\\right)^{2}\n\\end{align*}\n\nTherefore, we have $f'\\left(a\\right)=0$, which implies that $a=l$. We also have $f''\\left(a\\right)<0$, which gives $k<0. $Finally, we have $f\\left(0\\right)=c$, which means that $m=k\\left(-l\\right)^{4}+b=c$. Therefore:\n\n$$\nk=-\\frac{b-c}{l^{4}},\\quad l=a,\\quad m=b\n$$\n\nTo sketch the curve $y=\\frac{1}{f\\left(x\\right)}$, we need to find where it crosses the axes and its turning points. We have:\n\n$$\ny=\\frac{1}{f\\left(x\\right)}=\\frac{1}{k\\left(x-l\\right)^{4}+b}\n$$\n\nThe curve never crosses the $x$-axis because $k<0$. It crosses the $y$-axis when $x=0$, which gives $y=\\frac{1}{b+\\left(-lc\\right)}=-\\frac{1}{lc-b}$. To find the turning points, we set $y'=\\frac{d}{dx}\\left(\\frac{1}{f\\left(x\\right)}\\right)=0$:\n\n\\begin{align*}\ny' & =-\\frac{4k\\left(x-l\\right)^{3}}{\\left(k\\left(x-l\\right)^{4}+b\\right)^{2}}=0\\\\\n\\Rightarrow\\quad x & =l\n\\end{align*}\n\nWe have $y=\\frac{1}{b}>0$ at $x=l.$ Therefore, $\\left(l,\\frac{1}{b}\\right)$ is a turning point. \n\nThe coordinates of the points where $y=\\frac{1}{f\\left(x\\right)}$ crosses the axes and of the turning point are:\n\n$$\n\\text{Crosses the }y\\text{-axis:}\\quad\\left(0,-\\frac{1}{lc-b}\\right)\n$$\n\n$$\n\\text{Turning point:}\\quad\\left(l,\\frac{1}{b}\\right)\n$$",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679976094,
+  "id": "chatcmpl-6yuoYjUZKGlhr2bULrL04DfXaWgC9",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 643,
+    "prompt_tokens": 425,
+    "total_tokens": 1068
+  }
+}
+2016, 1, 4, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Arithmetic series: $a, a+d, a+2d, a+3d, ...$\n\nGeometric series: $b, br, br^2, br^3, ...$\n\nGiven that the 4th, 9th and 12th terms of the arithmetic series are equal to the 5th, 8th and 15th terms of the geometric series respectively,\n\nTherefore, we can write the following equations:\n\n$a+3d = b r^2$   ...(1)\n\n$a+8d = b r^5$   ...(2)\n\n$a+11d = b r^8$  ...(3)\n\nSubtracting (1) from (2), we get\n\n$5d = b r^5 - b r^2$\n\n$\\Rightarrow 5d = br^2 (r^3 - 1)$\n\n$\\Rightarrow 5d = (a+3d) (r^3-1)$  ......(4)\n\nSimilarly, subtracting (2) from (3), we get\n\n$3d = br^8 - br^5$\n\n$\\Rightarrow 3d = br^5 (r^3 - 1)$\n\n$\\Rightarrow 3d = (a+8d) (r^3-1)$  ......(5)\n\nFrom (4), we get $r^3 - 1 = \\dfrac{5d}{a+3d}$\n\nFrom (5), we get $r^3 - 1 = \\dfrac{3d}{a+8d}$\n\nEquating both, we get $\\dfrac{5d}{a+3d} = \\dfrac{3d}{a+8d}$\n\n$\\Rightarrow 5(a+8d) = 3(a+3d)$\n\n$\\Rightarrow 5a+40d = 3a+9d$\n\n$\\Rightarrow 2a = -31d$\n\nSolving for $a$ in terms of $d$, we get $a = -31d/2$\n\nSubstituting $a$ in (4), we get\n\n$5d = \\left(\\dfrac{-31d}{2} + 3d\\right)(r^3 - 1)$\n\n$\\Rightarrow 5 = \\dfrac{-25}{2} (r^3 - 1)$\n\n$\\Rightarrow r^3 - 1 = -\\dfrac{2}{5}$\n\n$\\Rightarrow r^3 = \\dfrac{3}{5}$\n\n$\\Rightarrow r = \\left(\\dfrac{3}{5}\\right)^{1/3}$\n\nTherefore, $r$ satisfies the equation $5r^{10}-8r^{3}+3=0.$\n\nUsing a calculator, we get $r \\approx 0.826.$\n\nNow, the sum of the terms of the geometric series after, but not including, the $n$th term is given by\n\n$S_n = br^{n}(1-r)$\n\nTherefore, the required sum in terms of $b$ and $n$ is $S_{n} = b \\left(\\dfrac{3}{5}\\right)^{\\frac{n}{3}}\\left(1-\\left(\\dfrac{3}{5}\\right)^{\\frac{1}{3}}\\right).$",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679976141,
+  "id": "chatcmpl-6yupJx9Ti4wt0jCQTQsrILbIqjwoh",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 692,
+    "prompt_tokens": 392,
+    "total_tokens": 1084
+  }
+}
+2016, 1, 5, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Topic: Vectors\n\nSolution:\n\n(a) We have $\\left(\\mathbf{u}+\\mathbf{v}\\right)=(2+a)\\mathbf{i}-\\mathbf{j}+(2+b)\\mathbf{k}$\nand $\\left(\\mathbf{u}-\\mathbf{v}\\right)=(2-a)\\mathbf{i}-\\mathbf{j}+(2-b)\\mathbf{k}$.\nHence, \n\\begin{align*}\n\\left(\\mathbf{u}+\\mathbf{v}\\right)\\times\\left(\\mathbf{u}-\\mathbf{v}\\right)& =\\begin{vmatrix}\\mathbf{i} & \\mathbf{j} & \\mathbf{k}\\\\\n2+a & -1 & 2+b\\\\\n2-a & -1 & 2-b\n\\end{vmatrix}\\\\\n&=(4-2a-b)\\mathbf{i}+(2+a+b)\\mathbf{j}+(-4+2a-b)\\mathbf{k}\\\\\n&=(2a+b-1)\\mathbf{i}+(a+b+2)\\mathbf{j}+(-2a-b-2)\\mathbf{k}.\n\\end{align*}\nHence, $\\left(\\mathbf{u}+\\mathbf{v}\\right)\\times\\left(\\mathbf{u}-\\mathbf{v}\\right)=(2a+b-1)\\mathbf{i}+(a+b+2)\\mathbf{j}+(-2a-b-2)\\mathbf{k}$.\n\n\n(b) Since the $\\mathbf{i}$- and $\\mathbf{k}$-components of the answer in part (a) are equal, we have\n\\begin{align*}\n2a+b-1 & =-2a-b-2\\\\\n\\Rightarrow a & =-\\frac{3}{4}b-\\frac{1}{4}.\n\\end{align*}\nTo find the possible values of $a$ for which $\\left(\\mathbf{u}+\\mathbf{v}\\right)\\times\\left(\\mathbf{u}-\\mathbf{v}\\right)$ is a unit vector, we note that\n\\begin{align*}\n\\left|\\left(\\mathbf{u}+\\mathbf{v}\\right)\\times\\left(\\mathbf{u}-\\mathbf{v}\\right)\\right|^{2}& =\\left|\\mathbf{u}+\\mathbf{v}\\right|^{2}\\left|\\mathbf{u}-\\mathbf{v}\\right|^{2}-\\left(\\mathbf{u}+\\mathbf{v}\\right)\\cdot\\left(\\mathbf{u}-\\mathbf{v}\\right)^{2}\\\\\n&=\\left|\\mathbf{u}+\\mathbf{v}\\right|^{2}\\left|\\mathbf{u}-\\mathbf{v}\\right|^{2}.\n\\end{align*}\nTherefore, $\\left(\\mathbf{u}+\\mathbf{v}\\right)\\times\\left(\\mathbf{u}-\\mathbf{v}\\right)$ is a unit vector if and only if $\\left|\\mathbf{u}+\\mathbf{v}\\right|^{2}\\left|\\mathbf{u}-\\mathbf{v}\\right|^{2}=1$. Substituting  $\\left(\\mathbf{u}+\\mathbf{v}\\right)$ and $\\left(\\mathbf{u}-\\mathbf{v}\\right)$ by their values yields \n\\begin{align*}\n\\left|\\mathbf{u}+\\mathbf{v}\\right|^{2}\\left|\\mathbf{u}-\\mathbf{v}\\right|^{2} & =\\left(\\left(2+a\\right)^{2}+1+\\left(2+b\\right)^{2}\\right)\\left(\\left(2-a\\right)^{2}+1+\\left(2-b\\right)^{2}\\right) \\\\\n&=2\\left(a^{2}+b^{2}\\right)+11a+11b+46.\n\\end{align*}\nThus, $\\left(\\mathbf{u}+\\mathbf{v}\\right)\\times\\left(\\mathbf{u}-\\mathbf{v}\\right)$ is a unit vector if and only if \n\\begin{align*}\n2\\left(a^{2}+b^{2}\\right)+11a+11b+46=1,\n\\end{align*}\nwhich simplifies to $\\left(2a+\\frac{11}{4}\\right)^{2}+\\left(2b+\\frac{11}{4}\\right)^{2}=6$.\nSince $\\left(2a+\\frac{11}{4}\\right)^{2}\\geq 0$ and $\\left(2b+\\frac{11}{4}\\right)^{2}\\geq 0$, we have $\\left(2a+\\frac{11}{4}\\right)^{2}+\\left(2b+\\frac{11}{4}\\right)^{2}\\geq 0$.\nTherefore, the possible values of $a$ are given by the solutions to the inequality\n\\begin{align*}\n\\left(2a+\\frac{11}{4}\\right)^{2}+\\left(2b+\\frac{11}{4}\\right)^{2}\\leq 6,\n\\end{align*}\nwhich is the equation for a disk centered at $\\left(-\\frac{11}{8},-\\frac{11}{8}\\right)$\nin the $ab$-plane with radius $\\sqrt{6}$.\n\n(c) Since $\\left(\\mathbf{u}+\\mathbf{v}\\right)\\cdot\\left(\\mathbf{u}-\\mathbf{v}\\right)=0$, we have\n\\begin{align*}\n\\left|\\mathbf{u}+\\mathbf{v}\\right|^{2} & =\\left(\\mathbf{u}-\\mathbf{v}\\right)\\cdot\\left(\\mathbf{u}-\\mathbf{v}\\right)\\\\\n&=\\left(\\mathbf{u}\\cdot\\mathbf{u}\\right)-2\\left(\\mathbf{u}\\cdot\\mathbf{v}\\right)+\\left(\\mathbf{v}\\cdot\\mathbf{v}\\right)\\\\\n&=\\left|\\mathbf{u}\\right|^{2}+\\left|\\mathbf{v}\\right|^{2}.\n\\end{align*}\nThus, $\\left|\\mathbf{v}\\right|= \\sqrt{\\left|\\mathbf{u}+\\mathbf{v}\\right|^{2}-\\left|\\mathbf{u}\\right|^{2}}=\\sqrt{\\left(2+a\\right)^{2}+1+\\left(2+b\\right)^{2}-9}=\\sqrt{a^{2}+b^{2}+15a+15b+9}$.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679976192,
+  "id": "chatcmpl-6yuq8uDvqi5OWMO4CLQYo70Gj8oZm",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 1485,
+    "prompt_tokens": 519,
+    "total_tokens": 2004
+  }
+}
+2016, 1, 6, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Sequences and Series:\n\n(b) Involves finding specific terms of a sequence.\n\n(c) Involves using a series to find a formula for the nth term of a sequence.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679976300,
+  "id": "chatcmpl-6yursdkut5N9TZajAEfjvIYm4tcu5",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 37,
+    "prompt_tokens": 396,
+    "total_tokens": 433
+  }
+}
+2016, 1, 7, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Complex Numbers",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679976304,
+  "id": "chatcmpl-6yurwUcVizQt9NkOWZkWIJa0EHBf6",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 2,
+    "prompt_tokens": 346,
+    "total_tokens": 348
+  }
+}
+2016, 1, 8, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "This question involves:\n- Differentiation and its Applications\n- Maclaurin's Series and Small Angle Approximations\n\nNote: The classification of some questions may depend on the depth of the answer provided.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679976305,
+  "id": "chatcmpl-6yurx2DAKz0vsXQICeJAwtRYjIFd3",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 41,
+    "prompt_tokens": 387,
+    "total_tokens": 428
+  }
+}
+2016, 1, 9, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Functions, Differentiation and its Applications, Differential Equations",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679976308,
+  "id": "chatcmpl-6yus0FJregekmW2w81KLGZypVduvM",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 11,
+    "prompt_tokens": 505,
+    "total_tokens": 516
+  }
+}
+2016, 2, 1, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Topic: Differentiation and its Applications. \n\nThe problem requires finding the rate of increase of the depth of water when the volume of water in the container is 3 $\\mathrm{m}^{3}$. This requires differentiating the given equation $\\dfrac{1}{3}\\pi r^2 h=V$ with respect to time. The radius of the water surface, $r$, is a function of time, $t$. Differentiation of this equation gives $\\dfrac{dV}{dt}=\\dfrac{1}{3}\\pi h\\dfrac{d}{dt}(r^{2})$. To solve the problem, we need to find $\\dfrac{dh}{dt}$ when $V=3~\\mathrm{m}^{3}$. The diameter of the cone is $2r$ and the height of the cone is $2r\\tan\\alpha=r/2$. The volume of the cone is also given as $\\dfrac{1}{3}\\pi r^{2}(r/2)=V_{\\text{cone}}$. Thus, $V=V_{\\text{cone}}+V_{\\text{water}}=\\dfrac{1}{3}\\pi r^{2}(r/2)+\\dfrac{1}{3}\\pi r^{2}h$. From this, the value of $h$ when $V=3~\\mathrm{m}^{3}$ can be found, and substitution into the previously concluded derivative equation provides the solution.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679976310,
+  "id": "chatcmpl-6yus2ikAHJ9wne027BxXu3sBCBCrm",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 311,
+    "prompt_tokens": 349,
+    "total_tokens": 660
+  }
+}
+2016, 2, 10, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Probability and Poisson distribution.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679976333,
+  "id": "chatcmpl-6yusP0p0d7dabqg5WPSUty2vI6sZN",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 6,
+    "prompt_tokens": 614,
+    "total_tokens": 620
+  }
+}
+2016, 2, 2, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Integration and Applications of Integration - Volume.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679976334,
+  "id": "chatcmpl-6yusQmiv5izKCp4JoJcn93qKGoe0B",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 8,
+    "prompt_tokens": 383,
+    "total_tokens": 391
+  }
+}
+2016, 2, 10, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Topic: Poisson distribution. \n\nSubtopics:\n- Conditions for a Poisson distribution to be well modeled\n- Finding probabilities using Poisson distribution\n- Approximating Poisson distribution with a normal distribution\n- Solving for parameter $\\lambda$ in Poisson distribution.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977156,
+  "id": "chatcmpl-6yv5gto3JKCp4lueDtBmLuiu8YADB",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 54,
+    "prompt_tokens": 614,
+    "total_tokens": 668
+  }
+}
+2016, 2, 3, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "- Graphing \n- Integration \n- Area of a triangle in a coordinate plane.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977161,
+  "id": "chatcmpl-6yv5lzfBdhKoLAk11qUFiZuSZDN1V",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 17,
+    "prompt_tokens": 410,
+    "total_tokens": 427
+  }
+}
+2016, 2, 4, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Topic: Complex Numbers.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977162,
+  "id": "chatcmpl-6yv5m9gOQYDYmXO2rJ5nWRNbeSBt2",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 5,
+    "prompt_tokens": 531,
+    "total_tokens": 536
+  }
+}
+2016, 2, 5, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Probability; Conditional Probability\n\nTopic: Probability",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977163,
+  "id": "chatcmpl-6yv5nQeUCi4OxWtyzqx8itk0y4SVZ",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 8,
+    "prompt_tokens": 491,
+    "total_tokens": 499
+  }
+}
+2016, 2, 6, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Topic: Probability and Hypothesis Testing.\n\nSubtopic: Stratified sampling, hypothesis testing, confidence interval.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977165,
+  "id": "chatcmpl-6yv5pto5uUUpnlkTFo75XJUDwuLq4",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 22,
+    "prompt_tokens": 703,
+    "total_tokens": 725
+  }
+}
+2016, 2, 7, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Permutations and Combinations.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977167,
+  "id": "chatcmpl-6yv5rRrCi8IbkjIrTFW0IzCyMtOsk",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 6,
+    "prompt_tokens": 365,
+    "total_tokens": 371
+  }
+}
+2016, 2, 8, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Topic: Graphing\n\nTopic: Correlation and Regression\n\n(i) Since the points in the scatter diagram do not form a straight line, it is clear that the relationship between $x$ and $y$ should not be modeled by an equation of the form $y = ax + b$.\n\n(ii) $d$ is positive because the efficiency, $y$, can never be zero. $c$ is negative because as $x$ increases, efficiency, $y$, decreases.\n\n(iii) We first exclude the point for which Xian has copied the efficiency value wrongly. The sum of the squares of the deviations of the $y$ values from their mean times the sum of the squares of the deviations of the $x$ values from their mean comes out to be $9.616$ and the sum of the cross products of the deviations from the means comes out to be $-210.059$. Hence, the product moment correlation coefficient is given by \n$$r = \\frac{\\sum (x-\\overline{x})(y-\\overline{y})}{\\sqrt{ \\sum (x-\\overline{x})^{2} \\sum (y-\\overline{y})^{2}}} = - \\frac{210.059}{\\sqrt{(9.617)(348.0094)}} = - 0.7848.$$\nTherefore, $r$ is close to $-1$ which indicates a strong negative correlation between $x$ and $y$. To find $c$ and $d$, we use the values for $\\overline{x}$, $\\overline{y}$, $s_{x}$, $s_{y}$, and $r$, given by \n$$\\overline{x} = 16.8125,\\quad\\overline{y} = 88.2538,\\quad s_{x} = 15.8899,\\quad s_{y} = 3.6308,$$\nand\n$$r = \\frac{-c}{s_{x}s_{y}} = -0.7848.$$\nSolving for $c$ gives $c \\approx 39.101$. Then,\n$$\\overline{y} = \\frac{c}{\\overline{x}} + d.$$\nSolving for $d$ gives $d \\approx 86.422$. Therefore, the equation of the model is \n$$y = \\frac{39.1}{x} + 86.4.$$\n\n(iv) Using the equation of the model obtained in part (iii), we can estimate the efficiency value that Xian has copied wrongly using $x = 7.5$ for the input. This gives \n$$y = \\frac{39.101}{7.5} + 86.422 \\approx 91.89\\%.$$\nTwo reasons why we would expect this estimate to be reliable are: (1) the correlation coefficient, $r$, is strongly negative which indicates a good fit and (2) the excluded point is an outlier and does not affect the trend of the data.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977168,
+  "id": "chatcmpl-6yv5sIvSwM1VrITlLe396rxBJLWG6",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 630,
+    "prompt_tokens": 761,
+    "total_tokens": 1391
+  }
+}
+2016, 2, 9, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "- Probability",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977209,
+  "id": "chatcmpl-6yv6XywNnY2U9HafEGqXSv53r7ekL",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 2,
+    "prompt_tokens": 381,
+    "total_tokens": 383
+  }
+}
+2017, 1, 1, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "The standard series we need to use is:\n\n$$e^x = 1 + x + \\frac{x^2}{2!} + \\frac{x^3}{3!} + \\cdots$$\n\nUsing this, we have:\n\n\\begin{align*}\ne^{2x}\\ln(1+ax) &= e^{2x} \\left(ax - \\frac{a^2x^2}{2} + \\frac{a^3x^3}{3} + \\cdots \\right)\\\\\n&= \\left(1 + 2x + \\frac{(2x)^2}{2!}+\\frac{(2x)^3}{3!} + \\cdots \\right) \\left(ax - \\frac{a^2x^2}{2} + \\frac{a^3x^3}{3} + \\cdots\\right) \\\\\n&= ax\\left(1 + 2x + 2^2x^2 + \\frac{2^3x^3}{3!} + \\cdots\\right) - \\frac{a^2x^2}{2}\\left(1 + 2x + 2^2x^2 + \\frac{2^3x^3}{3!} + \\cdots\\right) + \\frac{a^3x^3}{3}\\left(1 + 2x + 2^2x^2 + \\frac{2^3x^3}{3!} + \\cdots\\right) \\\\\n\\end{align*}\n\nNow, to find the expansion of $e^{2x}\\ln(1+ax)$ to the term in $x^3$, we only need to keep the terms up to $x^3$ in the above expression. Thus,\n\n\\begin{align*}\ne^{2x}\\ln(1+ax) &= ax\\left(1 + 2x + 2^2x^2\\right) - \\frac{a^2x^2}{2}\\left(1 + 2x + 2^2x^2\\right) + \\frac{a^3x^3}{3}\\left(1 + 2x + 2^2x^2\\right) \\\\\n&= ax + 2a x^2 + \\frac{3}{2}a x^3 - a^2x^2 - 2a^2x^3 + \\frac{4}{3}a^3x^3 \\\\\n&= \\left(a-\\frac{a^2}{2}\\right)x + \\left(2a-2a^2\\right)x^2 + \\left(\\frac{3}{2}a - 2a^2 + \\frac{4}{3}a^3\\right)x^3 + \\cdots\n\\end{align*}\n\nNow, we want there to be no term in $x^2$. This means the coefficient of $x^2$ should be 0:\n\n$$2a-2a^2 = 0 \\Rightarrow a(2-a) = 0$$\n\nSince $a \\neq 0$, we get $a = 2$. Therefore, the expansion of $e^{2x}\\ln(1+2x)$ up to the term in $x^3$ with no term in $x^2$ is:\n\n$$2x + 4x^3 + \\cdots$$",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977210,
+  "id": "chatcmpl-6yv6YFFSzwyA7FyfxVztrXZXGwEX2",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 735,
+    "prompt_tokens": 246,
+    "total_tokens": 981
+  }
+}
+2017, 1, 10, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Vectors.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977259,
+  "id": "chatcmpl-6yv7LgO2obCsxu1KBlnz3ILZoshNH",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 2,
+    "prompt_tokens": 521,
+    "total_tokens": 523
+  }
+}
+2017, 1, 11, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Topic: Differential Equations\n\nExplanation: The question involves differential equations, specifically the rate of change of velocity of a falling object in a vacuum and in the atmosphere. The question asks for the differential equation relating velocity, time, and constant, and requires the use of initial conditions to find the value of the constant. The subsequent parts ask for the solution of the differential equation in terms of time and the constant with the inclusion of an additional term for the atmosphere with a constant of proportionality. The final part of the question asks for the determination of the time taken for a falling object to reach 90% of its terminal velocity.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977259,
+  "id": "chatcmpl-6yv7L8P5EuVRuSzYokCpxh08bJHAa",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 126,
+    "prompt_tokens": 581,
+    "total_tokens": 707
+  }
+}
+2017, 1, 2, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Topic: Graphing\n\nSub-topic: Equations and Inequalities.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977268,
+  "id": "chatcmpl-6yv7UHvObhwphaVSIRxWwfTceGHL8",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 15,
+    "prompt_tokens": 264,
+    "total_tokens": 279
+  }
+}
+2017, 1, 3, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Topic: Equations and Inequalities",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977269,
+  "id": "chatcmpl-6yv7VpqaSjL3VBmpHTwrgiCBHFVL4",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 8,
+    "prompt_tokens": 273,
+    "total_tokens": 281
+  }
+}
+2017, 1, 4, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "- Differentiation and its Applications.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977271,
+  "id": "chatcmpl-6yv7XXclXEojzux7hBnYzpmRRAfFw",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 7,
+    "prompt_tokens": 324,
+    "total_tokens": 331
+  }
+}
+2017, 1, 5, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Functions",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977272,
+  "id": "chatcmpl-6yv7YzpOcPJhm4VM3P4tDokOeAMxx",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 1,
+    "prompt_tokens": 416,
+    "total_tokens": 417
+  }
+}
+2017, 1, 6, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Topic: Vectors. \n\nSubtopics:\n- Vector equations\n- Interpretation of vector equations\n- Dot product\n- Solving vector equations using dot product\n- Geometric interpretation of solutions.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977273,
+  "id": "chatcmpl-6yv7ZFVGa07BQ33ZYymTx3NwfIMWr",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 40,
+    "prompt_tokens": 400,
+    "total_tokens": 440
+  }
+}
+2017, 1, 7, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "1. Integration\n2. Integration and Functions",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977276,
+  "id": "chatcmpl-6yv7cpX1tgHJePeYuyNhYVGYawprZ",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 9,
+    "prompt_tokens": 277,
+    "total_tokens": 286
+  }
+}
+2017, 1, 8, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Complex Numbers.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977278,
+  "id": "chatcmpl-6yv7eiojNOlSYyyrlqaKYmK1eRLrd",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 3,
+    "prompt_tokens": 417,
+    "total_tokens": 420
+  }
+}
+2017, 1, 9, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Sequences and Series:\n\\begin{enumerate}\n\\item Finding an expression for $u_n$ in terms of $A$, $B$, and $n$. \n\\item Finding the values of $A$ and $B$. \n\\item Using an equation involving sequences and series to find a simplified expression for $\\sum_{r=1}^n r^3$. \n\\item Applying the d'Alembert's ratio test to explain why a series converges and finding its sum to infinity. \n\\end{enumerate}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977279,
+  "id": "chatcmpl-6yv7fXN5pHKW012GTq17LC05iTmAy",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 641,
+    "total_tokens": 750
+  }
+}
+2017, 2, 1, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "1. Graphing\n2. Functions\n3. Equations and Inequalities.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977286,
+  "id": "chatcmpl-6yv7mjwGbzYLYoje5LkjAoLJXvdt8",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 18,
+    "prompt_tokens": 335,
+    "total_tokens": 353
+  }
+}
+2017, 2, 10, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "- Probability\n- Normal Distribution",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977288,
+  "id": "chatcmpl-6yv7orIM49AZpqjJkMbEzK9fhog4D",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 6,
+    "prompt_tokens": 467,
+    "total_tokens": 473
+  }
+}
+2017, 2, 2, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "- Arithmetic and Geometric Progression Series",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977289,
+  "id": "chatcmpl-6yv7pZY1ZZ09fjvYtZR13g01b4Rgj",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 8,
+    "prompt_tokens": 382,
+    "total_tokens": 390
+  }
+}
+2017, 2, 3, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Functions.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977290,
+  "id": "chatcmpl-6yv7q1WtartEeO8pG3346BmlfGLjm",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 2,
+    "prompt_tokens": 507,
+    "total_tokens": 509
+  }
+}
+2017, 2, 4, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Applications of Integrations - Area and Volume.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977291,
+  "id": "chatcmpl-6yv7rKAPvboOAoHasS8LRJPftuB4D",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 9,
+    "prompt_tokens": 492,
+    "total_tokens": 501
+  }
+}
+2017, 2, 5, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Topic: Probability. \n",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977293,
+  "id": "chatcmpl-6yv7tTHmB9QBWzTL40jYH6S0GuI9k",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 5,
+    "prompt_tokens": 353,
+    "total_tokens": 358
+  }
+}
+2017, 2, 6, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Permutations and Combinations.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977293,
+  "id": "chatcmpl-6yv7tLrb6LSYMsc9BpgOxTBCeayca",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 6,
+    "prompt_tokens": 412,
+    "total_tokens": 418
+  }
+}
+2017, 2, 7, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "1. Probability\n2. Probability and Hypothesis Testing\n3. Probability and Hypothesis Testing",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977294,
+  "id": "chatcmpl-6yv7ucpHFyZkc8n7NQ0GV11SMANRH",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 21,
+    "prompt_tokens": 462,
+    "total_tokens": 483
+  }
+}
+2017, 2, 8, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Correlation and Regression.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977296,
+  "id": "chatcmpl-6yv7wlNP8BRAOxRfbtway7JdypEZo",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 5,
+    "prompt_tokens": 646,
+    "total_tokens": 651
+  }
+}
+2017, 2, 9, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Probability, Binomial Distribution, Discrete Random Variables.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977297,
+  "id": "chatcmpl-6yv7xZceMuAZsBXfBh2EQ8PQQOpap",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 11,
+    "prompt_tokens": 586,
+    "total_tokens": 597
+  }
+}
+2018, 1, 1, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "- Differentiation and its Applications \n- Integration",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977299,
+  "id": "chatcmpl-6yv7za2dF9jrGH5dpFNYdHnI16X6q",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 9,
+    "prompt_tokens": 258,
+    "total_tokens": 267
+  }
+}
+2018, 1, 10, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Equations and Inequalities, Differential Equations",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977300,
+  "id": "chatcmpl-6yv80wwJhsya7TRBElmqndPjY0UJW",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 10,
+    "prompt_tokens": 598,
+    "total_tokens": 608
+  }
+}
+2018, 1, 11, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Arithmetic and Geometric Progression Series:\n- Mr Wong invests $100 every month into plan P, which earns an increase of $a$% every month. \n- Mr Wong also invests $100 every month into plan Q, which earns a fixed bonus $b$ at the end of each month. \n\n- Find the worth of $100 invested on 1 January 2016 in plan P, where $a=0.2$.\n- Find the total amount in the account at the end of 31 December 2016 for plan P, where $a=0.2$.\n- Find the first month in which the total in the account for plan P will exceed $3000$.\n- Find the worth of $100 invested on 1 January 2016 in plan Q, where the bonus for every $100 invested is $b$.\n- Find the value of $b$ such that the total value of all the investments in plan Q is worth \\$2800 at the end of 31 December 2017.\n- Find the value of $b$ for plan Q such that it is worth the same as plan P at the end of the 60th month, where $a=1$.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977302,
+  "id": "chatcmpl-6yv82GWZ0KDZ2B677nejmwi5dXjji",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 251,
+    "prompt_tokens": 701,
+    "total_tokens": 952
+  }
+}
+2018, 1, 2, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Equations and Inequalities. \n\nThis problem involves finding the $x$-coordinates of the points of intersection of a curve and a line (which involves solving a system of equations), and then finding the volume of a solid using integration.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977319,
+  "id": "chatcmpl-6yv8JcY57nkdyCKiqj11wgBU8Zfta",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 49,
+    "prompt_tokens": 299,
+    "total_tokens": 348
+  }
+}
+2018, 1, 3, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Topic: Differential Equations.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977323,
+  "id": "chatcmpl-6yv8Ndd4CfNgBRqzi70TdIACvz5DM",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 6,
+    "prompt_tokens": 307,
+    "total_tokens": 313
+  }
+}
+2018, 1, 4, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Equations and Inequalities",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977323,
+  "id": "chatcmpl-6yv8NL217eySidUh4GQhF0QjSzyZD",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 6,
+    "prompt_tokens": 287,
+    "total_tokens": 293
+  }
+}
+2018, 1, 5, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "This problem involves functions. \n\n- The first part requires solving for a parameter $b$.\n- The second part requires finding the inverse function of $f$.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977324,
+  "id": "chatcmpl-6yv8OMqFbozThylA7Jz8uy4gvSTpw",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 32,
+    "prompt_tokens": 301,
+    "total_tokens": 333
+  }
+}
+2018, 1, 6, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Topic: Vectors\n\nSolution:\n\\begin{enumerate}\n    \\item Given $\\mathbf{a}\\times3\\mathbf{b}=2\\mathbf{a}\\times\\mathbf{c}$\\\\\n    $\\Rightarrow 3(\\mathbf{a}\\times\\mathbf{b})=2(\\mathbf{a}\\times\\mathbf{c})$ (Cross product is distributive over scalar multiplication).\\\\\n    $\\Rightarrow 3\\mathbf{\\hat{a}}(\\mathbf{b}\\cdot\\mathbf{\\hat{a}})=2\\mathbf{\\hat{a}}(\\mathbf{c}\\cdot\\mathbf{\\hat{a}})$ (Taking the magnitude of both sides and dividing by it)\\\\\n    Dividing both sides by $\\mathbf{\\hat{a}}\\neq0$, we get,\n    $3\\mathbf{b}\\cdot\\mathbf{\\hat{a}}=2\\mathbf{c}\\cdot\\mathbf{\\hat{a}}$\\\\\n    $3\\mathbf{b}\\cdot(\\mathbf{\\hat{a}}-\\mathbf{\\hat{a}})-2\\mathbf{c}\\cdot\\mathbf{\\hat{a}}=0$\\\\\n    $3\\mathbf{b}\\cdot\\mathbf{\\hat{a}}-3\\mathbf{a}\\cdot\\mathbf{\\hat{a}}-2\\mathbf{c}\\cdot\\mathbf{\\hat{a}}=0$\\\\\n    $3\\mathbf{b}\\cdot\\mathbf{\\hat{a}}-2\\mathbf{c}\\cdot\\mathbf{\\hat{a}}=3$\\\\\n    We know, $3\\mathbf{b}-2\\mathbf{c}=\\lambda\\mathbf{a}$, where $\\lambda=\\dfrac{3}{\\mathbf{a}\\cdot\\mathbf{a}}$.\n    \\item Given:\n    \\begin{align}\n        |\\mathbf{a}|=|\\mathbf{c}|=1 \\label{q3:a}\\\\\n        |\\mathbf{b}|=4 \\label{q3:b}\\\\\n        \\angle(\\mathbf{b},\\mathbf{c})&=60^\\circ \\label{q3:c}\n    \\end{align}\n    Using scalar product, $\\mathbf{b}\\cdot\\mathbf{c}=|\\mathbf{b}||\\mathbf{c}|\\cos\\angle(\\mathbf{b},\\mathbf{c})=2$\\\\\n    Also, $\\mathbf{a}\\times3\\mathbf{b}=2\\mathbf{a}\\times\\mathbf{c}$\\\\\n    $\\Rightarrow|\\mathbf{a}||3\\mathbf{b}|\\sin\\angle(\\mathbf{a},\\mathbf{b})=|\\mathbf{a}||\\mathbf{c}|\\sin\\angle(\\mathbf{a},\\mathbf{c})$\\\\\n    $\\Rightarrow3|\\mathbf{b}|\\sin\\theta=2\\sin\\theta$ (As $|\\mathbf{a}|=|\\mathbf{c}|=1$)\\\\\n    $\\Rightarrow\\theta=\\sin^{-1}\\left(\\dfrac{2}{3|\\mathbf{b}|}\\right)=\\sin^{-1}\\left(\\dfrac{1}{6}\\right)$\n    \\begin{align}\n        \\cos\\theta&=\\sqrt{1-\\sin^2\\theta}=\\dfrac{\\sqrt{35}}{6} \\label{q3:d}\\\\\n        \\sin\\theta&=\\dfrac{1}{2}\\sqrt{\\dfrac{3}{7}} \\label{q3:e}\\\\\n        \\mathbf{b}\\cdot\\mathbf{c}&=4|\\mathbf{c}|\\cos\\theta=2 \\label{q3:f}\n    \\end{align}\n    As $\\mathbf{a}$ is a unit vector, substituting $\\lambda=\\dfrac{3}{\\mathbf{a}\\cdot\\mathbf{a}}=3$ in $3\\mathbf{b}-2\\mathbf{c}=\\lambda\\mathbf{a}$, we get $3\\mathbf{b}-2\\mathbf{c}=3\\mathbf{\\hat{a}}$.\n    \\begin{align}\n        \\Rightarrow\\mathbf{b}\\cdot(3\\mathbf{\\hat{a}}+2\\mathbf{c})&=3|\\mathbf{b}|\\cdot3=9|\\mathbf{b}| \\label{q3:g}\\\\\n        \\Rightarrow\\mathbf{b}\\cdot(3\\mathbf{\\hat{a}}-2\\mathbf{c})&=3|\\mathbf{b}|\\cdot(-1)=-4|\\mathbf{b}| \\label{q3:h}\n    \\end{align}\n    Let $3\\mathbf{\\hat{a}}+2\\mathbf{c}=\\mathbf{x}$. Using \\eqref{q3:b}-\\eqref{q3:h}, we get the following two equations:\n    \\begin{align}\n        \\mathbf{b}\\cdot\\mathbf{x}&=9|\\mathbf{b}| \\label{q3:i}\\\\\n        3\\mathbf{b}\\cdot\\mathbf{\\hat{a}}-2\\mathbf{b}\\cdot\\mathbf{c}&=-4|\\mathbf{b}| \\label{q3:j}\n    \\end{align}\n    From \\eqref{q3:i},\n    \\begin{align}\n        \\mathbf{b}\\cdot(3\\mathbf{\\hat{i}}+2\\mathbf{c_{1}})=9|\\mathbf{b}| \\\\\n        \\mathbf{b}\\cdot(3\\mathbf{\\hat{i}}-2\\mathbf{c_{1}})=9|\\mathbf{b}| \\\\\n        \\mathbf{b}\\cdot(-3\\mathbf{\\hat{i}}+2\\mathbf{c_{2}})=9|\\mathbf{b}| \\\\\n        \\mathbf{b}\\cdot(-3\\mathbf{\\hat{i}}-2\\mathbf{c_{2}})=9|\\mathbf{b}| \n    \\end{align}\n    Using \\eqref{q3:f}, the above four equations can be written as:\n    \\begin{align}\n        3+\\sqrt{21}\\cdot c_{11}&=9 \\\\\n        3-\\sqrt{21}\\cdot c_{12}&=9 \\\\\n        -3+\\sqrt{21}\\cdot c_{21}&=9 \\\\\n        -3-\\sqrt{21}\\cdot c_{22}&=9\n    \\end{align}\n    Solving the above equations, we get:\n    \\begin{equation}\n        \\boxed{\\lambda_{1}=\\dfrac{4\\sqrt{21}}{3},\\lambda_{2}=-\\dfrac{2\\sqrt{21}}{3}}\n    \\end{equation}\n\\end{enumerate}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977327,
+  "id": "chatcmpl-6yv8RK0IS3orHaiGeNa8pMDppCQkm",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 1540,
+    "prompt_tokens": 372,
+    "total_tokens": 1912
+  }
+}
+2018, 1, 7, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Equation of curve $C$ is $\\frac{x^{2}-4y^{2}}{x+xy^{2}}=\\frac{1}{2}$.\n\nPart (a):\nDifferentiating with respect to $x$, we get\n\n$\\frac{d}{dx}(\\frac{x^{2}-4y^{2}}{x+xy^{2}})=\\frac{d}{dx}(\\frac{1}{2})$\n\n$\\Rightarrow\\frac{(2x-4yy^{\\prime})(x+xy^{2})-(x^{2}-4y^{2})(1+y^{2}+2xyy^{\\prime})}{(x+xy^{2})^{2}}=0$\n\n$\\Rightarrow (2x-4yy^{\\prime})(x+xy^{2})-(x^{2}-4y^{2})(1+y^{2}+2xyy^{\\prime})=0$\n\n$\\Rightarrow 2x^{2}y+2xy^{3}-4xy^{\\prime}+2xy^{3}+4y^{5}+2x^{2}yy^{\\prime}-x^{2}-4y^{2}-2xy^{2}y^{\\prime}=0$\n\n$\\Rightarrow 4xy^{3}+x^{2}yy^{\\prime}-4xy^{\\prime}-2xy^{2}y^{\\prime}=x^{2}-4y^{2}$\n\n$\\Rightarrow y^{\\prime}=\\frac{2x-y^{2}}{2xy+16y}$\n\nHence, we have shown that $\\frac{dy}{dx}=\\frac{2x-y^{2}}{2xy+16y}$.\n\nPart (b):\nSince $P$ and $Q$ have the same $x-$coordinate (i.e., $x=1$), we have\n\n\\[\n\\begin{aligned} y_{p} & =\\frac{1-4y_{p}^{2}}{1+y_{p}^{2}}\\\\ & \\implies 4y_{p}^{3}-y_{p}^{2}+y_{p}-1=0\\\\ y_{q} & =\\frac{1-4y_{q}^{2}}{1+y_{q}^{2}}\\\\ & \\implies 4y_{q}^{3}-y_{q}^{2}+y_{q}-1=0 \\end{aligned}\n\\]\n\nWe have to solve these equations to get $y_{p}$ and $y_{q}$. This cannot be done without a calculator or computer. However, we can use the fact that $y_{p}+y_{q}=0$ to get the coordinates of $N$.\n\nUsing $\\frac{dy}{dx}=\\frac{2x-y^{2}}{2xy+16y}$, we can find the gradient of the tangent at $P$.\n\nAt $P$, $x=1$, so $\\frac{dy}{dx}= \\frac{2-y_{p}^{2}}{2y_{p}+16}$.\n\nSimilarly, at $Q$, we have $x=1$ and $\\frac{dy}{dx}=\\frac{2-y_{q}^{2}}{2y_{q}+16}$.\n\nSince the tangents at $P$ and $Q$ meet at $N$, the product of the gradients of the tangents is $-1$.\n\n\\[\n\\Rightarrow \\frac{2-y_{p}^{2}}{2y_{p}+16}\\times \\frac{2-y_{q}^{2}}{2y_{q}+16}=-1\n\\]\n\n\\[\n\\Rightarrow \\frac{(2-y_{p}^{2})(2-y_{q}^{2})}{(2y_{p}+16)(2y_{q}+16)}=-1\n\\]\n\nUsing $y_{q}=-y_{p}$, we get\n\n\\[\n\\Rightarrow \\frac{(2-y_{p}^{2})(2-y_{q}^{2})}{(2y_{p}+16)(-2y_{p}+16)}=-1\n\\]\n\n\\[\n\\Rightarrow \\frac{(4-y_{p}^{2})^{2}}{256-4y_{p}^{2}}=-1\n\\]\n\nThis is impossible if $y_{p}$ is a real number. Hence, $y_{p}$ and $y_{q}$ are complex conjugates of each other. Therefore, $N$ lies on the real axis.\n\nTo find the coordinates of $N$, we need to find the $y$-coordinate of $N$. From $\\frac{(4-y_{p}^{2})^{2}}{256-4y_{p}^{2}}=-1$, we have $(4-y_{p}^{2})^{2}=4y_{p}^{2}-256$.\n\nSince $y_{q}=-y_{p}$, we also have $(4-y_{q}^{2})^{2}=4y_{q}^{2}-256$.\n\nAdding these two equations, we get $(4-y_{p}^{2})^{2}+(4-y_{q}^{2})^{2}=8(y_{q}^{2}+y_{p}^{2})-512$.\n\nUsing $y_{q}=-y_{p}$, we have\n\n$(4-y_{p}^{2})^{2}+(4-y_{q}^{2})^{2}=8y_{p}^{2}-512$.\n\nHence, $8y_{p}^{2}-512=0$, which implies $y_{p}=\\sqrt{64}=8$ (since $y_p$ is positive). Therefore, $y_{q}=-8$.\n\nThe equations of the tangents at $P$ and $Q$ are given by $y-8 = \\frac{2-8^2}{2(1)8+16}(x-1)$ and $y+8 = \\frac{2-(-8^2)}{2(1)(-8)+16}(x-1)$, respectively.\n\nSimplifying these equations, we get:\n\n$y = \\frac{3}{2} - \\frac{x}{4}$ and $y = -\\frac{3}{2} - \\frac{x}{4}$\n\nSolving for $x$ and $y$ (by equating the two equations), we get $x=-12$, $y=-\\frac{9}{2}$.\n\nHence, the exact coordinates of $N$ are $\\boxed{(-12,-\\frac{9}{2})}$.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977430,
+  "id": "chatcmpl-6yvA6b2P9HUIRB7OOb1TDMPVYUtbR",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 1412,
+    "prompt_tokens": 319,
+    "total_tokens": 1731
+  }
+}
+2018, 1, 8, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "- Sequences and Series",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977524,
+  "id": "chatcmpl-6yvBcRM9ENktYStZQgtubwTaTaXon",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 5,
+    "prompt_tokens": 389,
+    "total_tokens": 394
+  }
+}
+2018, 1, 9, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Topic: Differentiation and its Applications, Integration\n\nSubtopics:\n- Parametric equations and finding $\\frac{dy}{dx}$\n- Normal to a curve\n- Arc length",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977525,
+  "id": "chatcmpl-6yvBd6zzhLanwg6Vjc1ReyUU3h5Mk",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 36,
+    "prompt_tokens": 488,
+    "total_tokens": 524
+  }
+}
+2018, 2, 1, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "1. Differentiation and its Applications\n2. Differentiation and its Applications",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977528,
+  "id": "chatcmpl-6yvBgeCpLESbOHQNPbBybIDfNE0Hq",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 15,
+    "prompt_tokens": 290,
+    "total_tokens": 305
+  }
+}
+2018, 2, 10, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Probability, Normal Distribution",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977529,
+  "id": "chatcmpl-6yvBhfUPmPVdXLh6YwZ1IuL7mhXKS",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 4,
+    "prompt_tokens": 547,
+    "total_tokens": 551
+  }
+}
+2018, 2, 2, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Equations and Inequalities, Complex Numbers.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977530,
+  "id": "chatcmpl-6yvBiuTQ7YA93vUX8XWuYCV2v86Cb",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 10,
+    "prompt_tokens": 409,
+    "total_tokens": 419
+  }
+}
+2018, 2, 3, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Vectors.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977532,
+  "id": "chatcmpl-6yvBkgcFYsgF6gMEq6EmDMRCcEi5t",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 2,
+    "prompt_tokens": 393,
+    "total_tokens": 395
+  }
+}
+2018, 2, 4, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Binomial Expansion, Maclaurin's Series and Small Angle Approximations",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977532,
+  "id": "chatcmpl-6yvBkUd3YrPNpxPJxv2GwI11sS0Dk",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 15,
+    "prompt_tokens": 452,
+    "total_tokens": 467
+  }
+}
+2018, 2, 5, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Topic: Hypothesis Testing. \n\nSubtopics: One-sample t-test, Type I and Type II errors, Level of significance.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977534,
+  "id": "chatcmpl-6yvBmZtjFnHS9CLzo0xsoOVJkkuNc",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 27,
+    "prompt_tokens": 408,
+    "total_tokens": 435
+  }
+}
+2018, 2, 6, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Probability",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977536,
+  "id": "chatcmpl-6yvBoXvKxgfJC3H3AtatQ2LXSMRcj",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 1,
+    "prompt_tokens": 515,
+    "total_tokens": 516
+  }
+}
+2018, 2, 7, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Probability.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977537,
+  "id": "chatcmpl-6yvBpnpsclG03WH6RJ8RwTTstSFWV",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 2,
+    "prompt_tokens": 476,
+    "total_tokens": 478
+  }
+}
+2018, 2, 8, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Topic: Probability\n\nSubtopics: Probability distribution, expected value, variance.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977538,
+  "id": "chatcmpl-6yvBqkxiACgNzLdpQWakqUfYvkgyx",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 15,
+    "prompt_tokens": 394,
+    "total_tokens": 409
+  }
+}
+2018, 2, 9, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Functions, Correlation and Regression.\n\nExplanations: \n\n1. A scatter diagram is a graph which shows paired data as points on a plane. So, this question requires the drawing of a scatter diagram for two variables, namely, $P$ and $R$. Thus, we are dealing with functions, in this case a relation between two variables which assigns to each input value a corresponding output value. \n\n2. This part is focuses on calculating the product moment correlation coefficients (PMCC) for the linear and quadratic models. PMCC measures the strength and direction of the linear association between two variables. We then use the PMCC values to determine which model fits the data better. This involves the use of correlation and regression, which clearly falls under Functions and Correlation and Regression.\n\n3. This part requires the use of the linear model obtained in part (ii) to estimate the speed of the fan when the power is 0.9 watts. This involves the use of the dependent and the independent variables in the linear model. Reliability of the estimate requires looking at the range of values in the data set. This question is clearly testing Functions and Regression/Estimation.\n\n4. This part requires the use of the linear model from part (ii) to estimate the power used when the speed of the fan is 3300 revolutions per minute and assess the reliability of the estimate. This is another question that is related to Functions and Regression/Estimation.\n\n5. This part is aimed at converting the equation obtained in part (ii) so that it can be used when the speed of the fan, $R$, is given in revolutions per second. This is purely a transformation of the independent variable and should not be mistaken for differentiation or integration of the equation. Nonetheless, it still falls under Functions.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977540,
+  "id": "chatcmpl-6yvBs56FDOVLfBWh080EKL3xxlG7O",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 362,
+    "prompt_tokens": 677,
+    "total_tokens": 1039
+  }
+}
+2019, 1, 1, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Topic: Functions. \n\nThe subsequent input is a question on a specific type of function where the roots are given.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977566,
+  "id": "chatcmpl-6yvCI7jTxPt9fPgVSasQ7yLp6uP9B",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 23,
+    "prompt_tokens": 259,
+    "total_tokens": 282
+  }
+}
+2019, 1, 10, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Topic: Integration, Parametric Equations\n\nSubtopics: \n- Finding Cartesian Equation of Symmetry\n- Finding $x$-intercepts\n- Finding Area enclosed by curve and $x$-axis\n- Total Area enclosed by curve.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977568,
+  "id": "chatcmpl-6yvCKLu7cdHju5FPCvtB739BT6cvM",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 50,
+    "prompt_tokens": 438,
+    "total_tokens": 488
+  }
+}
+2019, 1, 11, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "- Differential Equations",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977572,
+  "id": "chatcmpl-6yvCOe0acFzC5AwKfoTKiypoDfJWG",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 4,
+    "prompt_tokens": 550,
+    "total_tokens": 554
+  }
+}
+2019, 1, 12, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "- Vectors",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977573,
+  "id": "chatcmpl-6yvCPtTZcdh3PqxrNRUu4dRRT0zWs",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 3,
+    "prompt_tokens": 634,
+    "total_tokens": 637
+  }
+}
+2019, 1, 2, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Equations and Inequalities.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977574,
+  "id": "chatcmpl-6yvCQGKYijIqPpEGAF3FUuSpvNmGO",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 7,
+    "prompt_tokens": 358,
+    "total_tokens": 365
+  }
+}
+2019, 1, 3, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "- Functions",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977574,
+  "id": "chatcmpl-6yvCQesx0yNxedAvK6GhHC2dwmB1B",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 2,
+    "prompt_tokens": 316,
+    "total_tokens": 318
+  }
+}
+2019, 1, 4, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "1. Graphing\n2. Equations and Inequalities",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977575,
+  "id": "chatcmpl-6yvCRGqHmXgmIsJB3YR7sB3rL17jm",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 13,
+    "prompt_tokens": 269,
+    "total_tokens": 282
+  }
+}
+2019, 1, 5, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "\\begin{enumerate}\n\\item Solution: Since $f(x)$ is one-to-one and onto, it has an inverse function. To find $f^{-1}(x)$, we need to solve $y=f(x)$ for $x$. Hence, we have:\n\n\\begin{align*}\ny=e^{2x-4}&\\Rightarrow 2x-4=\\ln{y}\\\\\n          &\\Rightarrow x=\\frac{1}{2}\\left(\\ln y+4\\right)\n\\end{align*}\n\nTherefore, the inverse function of $f(x)$ is given by $f^{-1}(x)=\\frac{1}{2}\\left(\\ln x+4\\right)$ with domain $x>0$.\n\n\\item Solution: We have $fg(x)=f(x)g(x)=e^{2x-4}(x+2)=5$. So we need to solve the following equation:\n\n\\begin{align*}\ne^{2x-4}\\left(x+2\\right) & =5\\\\\n\\Rightarrow \\left(2x-4\\right)+\\ln\\left(x+2\\right) & =\\ln 5\\\\\n\\Rightarrow \\frac{1}{2}\\ln\\left(x+2\\right) & =\\frac{1}{2}-\\frac{1}{2}\\ln 5\\\\\n\\Rightarrow \\ln\\left(x+2\\right) & =1-\\ln 5\\\\\n\\Rightarrow x+2 & =\\mathrm{e}^{1-\\ln5}\\\\\n\\Rightarrow x & =\\mathrm{e}^{1-\\ln5}-2.\n\\end{align*}\n\nHence, the solution is $x=\\mathrm{e}^{1-\\ln5}-2$.\n\\end{enumerate}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977577,
+  "id": "chatcmpl-6yvCTWLYRBFkUZToVmF0PUsuGq03e",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 376,
+    "prompt_tokens": 312,
+    "total_tokens": 688
+  }
+}
+2019, 1, 6, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Sequences and Series",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977602,
+  "id": "chatcmpl-6yvCs2uNLEhxHKyRlDYzn5XYZRdXd",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 4,
+    "prompt_tokens": 267,
+    "total_tokens": 271
+  }
+}
+2019, 1, 7, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Functions.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977603,
+  "id": "chatcmpl-6yvCtZtcvmVnoU7NvYNQb53XPWWLN",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 2,
+    "prompt_tokens": 244,
+    "total_tokens": 246
+  }
+}
+2019, 1, 8, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "- Arithmetic and Geometric Progression Series",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977604,
+  "id": "chatcmpl-6yvCuhKPd9WeO3u3nNSdzqQhsw7yN",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 8,
+    "prompt_tokens": 423,
+    "total_tokens": 431
+  }
+}
+2019, 1, 9, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Complex Numbers",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977605,
+  "id": "chatcmpl-6yvCvqjxzGQXh1n16283JvlnFIUsE",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 2,
+    "prompt_tokens": 331,
+    "total_tokens": 333
+  }
+}
+2019, 2, 1, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Topic: Equations and Inequalities. \n\nExplanation: The question asks for finding the other roots of a given equation, which falls under the topic of equations and inequalities.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977606,
+  "id": "chatcmpl-6yvCwuLZNCBfaXwszgP7OXD2j7QSw",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 35,
+    "prompt_tokens": 238,
+    "total_tokens": 273
+  }
+}
+2019, 2, 10, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "- Probability",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977609,
+  "id": "chatcmpl-6yvCzghqr3hI4VckkYvh14cseXzhW",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 2,
+    "prompt_tokens": 778,
+    "total_tokens": 780
+  }
+}
+2019, 2, 11, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Probability, Binomial Distribution.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977611,
+  "id": "chatcmpl-6yvD1XNP1cIo4LU6JdFb5zNBaBFfW",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 6,
+    "prompt_tokens": 771,
+    "total_tokens": 777
+  }
+}
+2019, 2, 2, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "\\begin{enumerate}\n\\item Topic: Integration.\n\\item Topic: Integration.\n\\item Topic: Integration.\n\\item Topic: Integration.\n\\item Topic: Integration.\n\\end{enumerate}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977612,
+  "id": "chatcmpl-6yvD2wC1JbOJJGqjPwNBeYfYjUi6l",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 40,
+    "prompt_tokens": 527,
+    "total_tokens": 567
+  }
+}
+2019, 2, 3, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Functions.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977615,
+  "id": "chatcmpl-6yvD5M8wdGiZkMS5XxDVZ1wRYTuLW",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 2,
+    "prompt_tokens": 516,
+    "total_tokens": 518
+  }
+}
+2019, 2, 4, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "- Arithmetic and Geometric Progression Series\n\nThere are two parts to the question. \n\nPart 1: Involves finding the total time taken to swim 10 lengths using Mrs Wong's programme, where the times taken for each of the 10 lengths are in arithmetic progression.\n\nPart 2: Involves Suzie's swim of 30 lengths using Mrs Wong's programme, Alfie's programme and continuous swimming, where the times taken for each of the 10 lengths in Alfie's programme are in geometric progression. Also, the length of the pool is given to find Suzie's average speed, and to determine whether, exactly 8 minutes after she starts to swim, Suzie is swimming away from or towards her starting point.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977616,
+  "id": "chatcmpl-6yvD67mmNtwkbHPAJtnWhsnC5aVNu",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 151,
+    "prompt_tokens": 489,
+    "total_tokens": 640
+  }
+}
+2019, 2, 5, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "1. Integration\n2. Integration, Trigonometric Functions\n3. Integration, Natural Logarithm\n4. Integration, Substitution.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977626,
+  "id": "chatcmpl-6yvDGi0EGrKwm6PPZxBESsiEGUf9u",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 29,
+    "prompt_tokens": 324,
+    "total_tokens": 353
+  }
+}
+2019, 2, 6, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Probability.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977629,
+  "id": "chatcmpl-6yvDJglIBE2bN2YRb7Xr1aVkeHVz0",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 2,
+    "prompt_tokens": 330,
+    "total_tokens": 332
+  }
+}
+2019, 2, 7, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "1. Permutations and Combinations\n2. Permutations\n3. Probability",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977630,
+  "id": "chatcmpl-6yvDKo3iXo63Zud40OppBftP8xZCl",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 16,
+    "prompt_tokens": 345,
+    "total_tokens": 361
+  }
+}
+2019, 2, 8, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Hypothesis Testing.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977632,
+  "id": "chatcmpl-6yvDM9IneMH3YvfZM3zgPiMm9VtIN",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 5,
+    "prompt_tokens": 462,
+    "total_tokens": 467
+  }
+}
+2019, 2, 9, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Topic: Correlation and Regression\n\nToby attempts to model the relationship between $x$ and $t$ with\na straight line. Explain whether this is likely to provide a good model.\n\nSketch a scatter diagram of $\\ln x$ against $t$ for the data given\nin the table.\n\nToby models the data with the equation $\\ln x=c+dt$. Find the values\nof the constants $c$ and $d$ and state the value of the product\nmoment correlation coefficient for this model.\n\nComment on Toby\\textquoteright s two models.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977633,
+  "id": "chatcmpl-6yvDNzoUxSryMKaRLEUS82aSRp4uI",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 117,
+    "prompt_tokens": 605,
+    "total_tokens": 722
+  }
+}
+2020, 1, 1, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Vectors.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977641,
+  "id": "chatcmpl-6yvDVXwPYxVhlHB1AWFAiZhAVPVI6",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 2,
+    "prompt_tokens": 318,
+    "total_tokens": 320
+  }
+}
+2020, 1, 10, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "1. Differential Equations\n2. Differential Equations",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977642,
+  "id": "chatcmpl-6yvDWF1T0xxCVQOLBb0BkvyvBXnrP",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 11,
+    "prompt_tokens": 488,
+    "total_tokens": 499
+  }
+}
+2020, 1, 11, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Functions.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977643,
+  "id": "chatcmpl-6yvDX0sAxOoPpzPSx3nkrAtWfCYi4",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 2,
+    "prompt_tokens": 723,
+    "total_tokens": 725
+  }
+}
+2020, 1, 2, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Topic: Differentiation and its Applications\n\nWe can differentiate both sides of the given equation with respect to $x$, then evaluate at the point $(1,1)$ to find the slope of the tangent line. \n\nDifferentiating the left side using the quotient rule and the right side using the product rule, we get:\n\n$$\\frac{d}{dx} \\left(\\frac{x^2}{1+x^2} + \\frac{y^2}{1+y^2}\\right) = \\frac{d}{dx}(x^3 y^5)$$\n\nSimplifying the left side using the chain rule and implicit differentiation, we get:\n\n$$\\frac{2x(1+x^2) - 2x^3}{(1+x^2)^2} + \\frac{2y(1+y^2) - 2y^3}{(1+y^2)^2} \\frac{dy}{dx} = 3x^2y^5 + 5x^3y^4 \\frac{dy}{dx}$$\n\nPlugging in $(x,y) = (1,1)$, we get:\n\n$$\\frac{2(1)(2) - 2(1)^3}{(1+1^2)^2} + \\frac{2(1)(2) - 2(1)^3}{(1+1^2)^2} \\frac{dy}{dx} = 3(1)^2(1)^5 + 5(1)^3(1)^4 \\frac{dy}{dx}$$\n\nSolving for $\\frac{dy}{dx}$, we get:\n\n$$\\frac{dy}{dx} = \\frac{-3}{4}$$\n\nThis is the slope of the tangent line at $(1,1)$. \n\nTo find the equation of the tangent line, we can use the point-slope form:\n\n$$y - 1 = \\frac{-3}{4}(x-1)$$\n\nSimplifying, we get:\n\n$$3x + 4y = 7$$\n\nTherefore, the equation of the tangent line is $3x + 4y = 7$.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977644,
+  "id": "chatcmpl-6yvDYR3qbmmanBv2qS3Rnr6LCuaCK",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 455,
+    "prompt_tokens": 258,
+    "total_tokens": 713
+  }
+}
+2020, 1, 3, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Classification: Differentiation and its Applications\n\nSubtopics:\n- Second derivative\n- Maclaurin's series",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977676,
+  "id": "chatcmpl-6yvE42b6kgea6huBViuHiR4LT6s2H",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 22,
+    "prompt_tokens": 280,
+    "total_tokens": 302
+  }
+}
+2020, 1, 4, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Topic: Complex Numbers\n\nSubtopics:\n- Division of complex numbers\n- Purely imaginary numbers\n- Modulus of complex numbers \n- Polar form of complex numbers",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977678,
+  "id": "chatcmpl-6yvE6KpQR0cKvcK6A0BrdO7mJLBBA",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 33,
+    "prompt_tokens": 451,
+    "total_tokens": 484
+  }
+}
+2020, 1, 5, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Topic: Vectors.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977681,
+  "id": "chatcmpl-6yvE9Kd25Ny7KvGGjz8Mh8XD4puOi",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 5,
+    "prompt_tokens": 551,
+    "total_tokens": 556
+  }
+}
+2020, 1, 6, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Topic: Complex Numbers\n\nWe are given a quadratic equation with complex coefficients, and we are asked to find its roots.\n\nFirst, we will expand the given equation using the distributive property:\n\n\\begin{align*}\nz^2 (2+i) - 8iz + t &= 0 \\\\\n2z^2 + iz^2 - 8iz + t &= 0 \\\\\n(2+i)z^2 - 8iz + t &= 0 \\\\\n\\end{align*}\n\nWe will use the quadratic formula to find the roots:\n\n\\begin{align*}\nz &= \\frac{-b \\pm \\sqrt{b^2-4ac}}{2a} \\\\\nz &= \\frac{8i \\pm \\sqrt{(8i)^2 - 4(2+i)(t)}}{2(2+i)} \\\\\nz &= \\frac{8i \\pm \\sqrt{64i^2 - 8t - 4ti}}{2(2+i)} \\\\\n\\end{align*}\n\nSimplifying the expression under the square root:\n\n\\begin{align*}\n64i^2 - 8t - 4ti &= -64 - 8t - 4ti \\\\\n&= -8(8+t+ti) \\\\\n&= -8\\left[(8+t) + ti\\right]\n\\end{align*}\n\nWe are given that one root is of the form $k+ki$, where $k$ is real and non-zero. We can write the other root as $a+bi$, where $a$ and $b$ are also real numbers. The sum of the roots is the negative coefficient of $z$ in the quadratic equation, divided by the leading coefficient:\n\n\\begin{align*}\n(k+ki) + (a+bi) &= \\frac{8i}{2+i} \\\\\n(k+a) + (k+b)i &= \\frac{8i}{2+i} \\\\\n\\frac{(k+a)}{(2+i)} &= \\frac{0}{1} \\\\\n\\frac{(k+b)}{(2+i)} &= \\frac{8}{2+i} \\\\\n\\end{align*}\n\nThe first equation gives us $a=-k$. Substituting this into the second equation:\n\n\\begin{align*}\n\\frac{(k+b)}{(2+i)} &= \\frac{8}{2+i} \\\\\n(k+b)(2-i) &= 8(2+i) \\\\\n2k + 10b &= 16 \\\\\nk + 5b &= 8 \\\\\n\\end{align*}\n\nWe are given that $k$ is non-zero, so dividing both sides of the equation by $k$:\n\n\\begin{align*}\n1 + \\frac{5b}{k} &= \\frac{8}{k} \\\\\n\\frac{5b}{k} &= \\frac{7}{k} \\\\\nb &= \\frac{7}{5}\n\\end{align*}\n\nTherefore, the other root is $-k + \\frac{7}{5}i$. Finally, we can use the fact that the product of the roots is the constant term divided by the leading coefficient:\n\n\\begin{align*}\n(k+ki)(-k+\\frac{7}{5}i) &= t/(2+i) \\\\\n-k^2 + \\frac{7}{5}ki + k^2i &= t/(2+i) \\\\\n\\frac{7}{5}k &= \\frac{t}{2+i} \\\\\nt &= \\frac{7}{5}k (2-i) \\\\\nt &= \\frac{14}{5}k + \\frac{7}{5}ki\n\\end{align*}\n\nWe have now found $t$ and $k$, and both roots of the quadratic equation.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977682,
+  "id": "chatcmpl-6yvEACKcAhvcYLVMy5vlQpWM2g1yn",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 785,
+    "prompt_tokens": 253,
+    "total_tokens": 1038
+  }
+}
+2020, 1, 7, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Integration.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977736,
+  "id": "chatcmpl-6yvF213T6qyTJ8gr74vRUGRfndb2W",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 2,
+    "prompt_tokens": 335,
+    "total_tokens": 337
+  }
+}
+2020, 1, 8, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "- Arithmetic and Geometric Progression Series\n\nThe problem involves finding the nth term and sum of arithmetic and geometric series.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977737,
+  "id": "chatcmpl-6yvF3x8L3fgvas5KMchXPDLeDY3ov",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 24,
+    "prompt_tokens": 385,
+    "total_tokens": 409
+  }
+}
+2020, 1, 9, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "- Trigonometry (using arctangent)\n- Functions (equations of curves)\n- Intersection of Curves\n- Graphing (sketching curves)\n- Asymptotes\n- Integration (finding area of region)",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977739,
+  "id": "chatcmpl-6yvF5OdFPtvrTpzyYJMIHd7xQxJEz",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 47,
+    "prompt_tokens": 450,
+    "total_tokens": 497
+  }
+}
+2020, 2, 1, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Topic: Functions and Equations\n\nLet the equation of the quadratic curve be $y=ax^{2}+bx+c$. We are given the following:\n\n\\begin{align*}\n\\text{minimum point:}\\quad & x=1,\\ y=-2 \\\\\n\\text{gradient at}\\ x=2:\\quad & y'=5\n\\end{align*}\n\nUsing this information, we can write the following system of equations:\n\n\\begin{align*}\na+b+c & =-2\\\\\n4a+2b+c & =-8\\\\\n4a+2b+c & =5(2)+k\n\\end{align*}\n\nwhere $k$ is the constant of integration when we integrate $y'$ with respect to $x$. To solve for the coefficients $a$, $b$, and $c$, we can eliminate $b$ and $c$ by subtracting the first equation from the second and third equations:\n\n\\begin{align*}\n3a+c & =-6\\\\\n3a+c & =k+10\n\\end{align*}\n\nEquating these two equations, we get $k+10=-6$, so $k=-16$. Substituting $k$ back into one of the equations above, we get $c=-6-3a$. Finally, substituting $c$ and the first equation into the second equation, we get:\n\n\\begin{align*}\n4a+2b-6-3a & =-8\\\\\na+2b & =-1\n\\end{align*}\n\nSolving for $b$, we get $b=-\\frac{a+1}{2}$. Therefore, the equation of the quadratic curve is:\n\n\\begin{align*}\ny & =ax^{2}-\\frac{a+1}{2}x-6\\\\\n & =a\\left(x^{2}-\\frac{1}{2}x\\right)-6\\\\\n & =a\\left(x-\\frac{1}{4}\\right)^{2}-\\frac{1}{16}a-6\n\\end{align*}\n\nSince the vertex is at $\\left(1,-2\\right)$, we have:\n\\begin{align*}\n1-\\frac{1}{4} & = \\frac{-b}{2a} = 1\\\\\n\\Rightarrow a & =4\n\\end{align*}\nTherefore, the equation of the curve is $\\boxed{y=4x^{2}-2x-6}$.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977743,
+  "id": "chatcmpl-6yvF9xgo2ePpsdx6KdJtqnJ96ki4r",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 526,
+    "prompt_tokens": 209,
+    "total_tokens": 735
+  }
+}
+2020, 2, 10, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Topic: Hypothesis Testing, Normal Distribution\n\nSubtopics: one-sample z-test, sample statistics, significance level, critical region, null and alternative hypotheses.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977778,
+  "id": "chatcmpl-6yvFishqUAcVTEKmlj7S7FhrgGfnP",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 32,
+    "prompt_tokens": 667,
+    "total_tokens": 699
+  }
+}
+2020, 2, 2, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Sequences and Series:\n- Finding behavior of sequence with given recursive formula and constants\n- Finding a constant value of sequence given a term \n- Finding values and expression of terms of sequence with given recursive formula and constants \n- Finding the n-th term and value of m for given sum expression of an arithmetic series",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977781,
+  "id": "chatcmpl-6yvFlYFXAoKrMM3yrfSvMCcx6i2Se",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 62,
+    "prompt_tokens": 579,
+    "total_tokens": 641
+  }
+}
+2020, 2, 3, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "1. Differentiation and its Applications\n2. Integration\n3. \n    a. In this question, finding the area enclosed relies on prior knowledge from part 2, so it is also classified as Integration.\n    b. Functions. Specifically, finding the cartesian equation of a curve.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977786,
+  "id": "chatcmpl-6yvFqNkgdpon8JkCBdz4lStQCEsGv",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 58,
+    "prompt_tokens": 446,
+    "total_tokens": 504
+  }
+}
+2020, 2, 4, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "- Geometry (of 3D shapes)",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977790,
+  "id": "chatcmpl-6yvFuVBx2b10zs8HV8L3Lx0ofadlB",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 9,
+    "prompt_tokens": 474,
+    "total_tokens": 483
+  }
+}
+2020, 2, 5, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Probability, Expectation, Variance.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977792,
+  "id": "chatcmpl-6yvFwtCPKmbMl7nQ0zMGDyR2Qf5WZ",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 8,
+    "prompt_tokens": 369,
+    "total_tokens": 377
+  }
+}
+2020, 2, 6, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Probability, Normal Distribution, Conditional Probability\n\n(a) Graphing.\nThe distribution of $T$ can be plotted on a normal probability plot or a standard normal distribution plot showing the mean of 5 and a standard deviation of 1.2.\n\n(b) Normal Distribution, Probability.\nWe need to find $P(T>8.06)$. \nFirst, we standardize the variable: \n$$\\frac{T-5}{1.2}=Z\\sim N(0,1)$$\n$$P(T>8.06)=P\\left(Z>\\frac{8.06-5}{1.2}\\right)=P(Z>2.717)=0.003$$\n\n(c) Normal Distribution, Probability.\nWe need to find $P(W+T>30)$. \nSince $W$ and $T$ are independent,\n$$W+T\\sim N(5+21,1.2^2+3^2)=N(26,15.24)$$\n$$P(W+T>30)=P\\left(Z>\\frac{30-26}{\\sqrt{15.24}}\\right)=P(Z>1.243)=0.107$$\n\n(d) Probability, Conditional Probability. \nWe need to find $P(\\text{fine weather|late for work})=\\frac{P(\\text{fine weather and late for work})}{P(\\text{late for work})}$\n$$P(\\text{fine weather and late for work})=P(\\text{fine weather})P(\\text{late for work|fine weather})$$\n$$=0.7\\cdot P(W+T>33|W)\\cdot P(W<9)+0.3 \\cdot P(D+T>33|D) \\cdot P(D<9)$$\nWe assume that $W$ and $D$ are independent of $T$. Then, \n$$P(W+T>33|W)=P(T>33-W)=1-P(T<33-W)$$\n$$=1-\\Phi\\left(\\frac{33-W-5}{1.2}\\right)=1-\\Phi\\left(\\frac{28-W}{1.2}\\right),$$\nwhere $\\Phi$ denotes the standard normal CDF. Similarly,\n$$P(D+T>33|D)=1-\\Phi\\left(\\frac{33-D-5}{1.2}\\right)=1-\\Phi\\left(\\frac{28-D}{1.2}\\right).$$\nThus, \n$$P(\\text{fine weather and late for work})=0.7\\cdot \\int_{0}^{9} \\left[1-\\Phi\\left(\\frac{28-w}{1.2}\\right)\\right]f_W(w)dw+0.3\\cdot \\int_{0}^{9} \\left[1-\\Phi\\left(\\frac{28-d}{1.2}\\right)\\right]f_D(d)dd$$\nwhere $f_W(w)$ and $f_D(d)$ denote the PDFs of $W$ and $D$, respectively. \n\nFor $P(\\text{late for work})$, we use the law of total probability:\n$$P(\\text{late for work})=P(\\text{late for work|fine weather})P(\\text{fine weather})+P(\\text{late for work|not fine weather})P(\\text{not fine weather})$$\n$$= \\int_{0}^{9} P(W+T>30|W=w)f_W(w)dw + \\int_{0}^{9} P(D+T>30|D=d)f_D(d)dd$$\nwhere we have used $P(\\text{late for work|not fine weather})=P(D+T>33|D>9)$ and $P(\\text{not fine weather})=0.3$. \n\nNote that $P(W+T>30|W=w)$ and $P(D+T>30|D=d)$ are calculated in part (c). \n\nFinally, we have\n$$P(\\text{fine weather|late for work})=\\frac{0.7\\cdot \\int_{0}^{9} \\left[1-\\Phi\\left(\\frac{28-w}{1.2}\\right)\\right]f_W(w)dw}{ \\int_{0}^{9} P(W+T>30|W=w)f_W(w)dw + 0.3 \\cdot \\int_{0}^{9} P(D+T>30|D=d)f_D(d)dd}$$",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977793,
+  "id": "chatcmpl-6yvFxQySVDuVqwg7lY4S8Imw0SODZ",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 954,
+    "prompt_tokens": 496,
+    "total_tokens": 1450
+  }
+}
+2020, 2, 7, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Equations and Inequalities.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977855,
+  "id": "chatcmpl-6yvGxBy9nVQKsVoagGvGGxNsicOZG",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 7,
+    "prompt_tokens": 599,
+    "total_tokens": 606
+  }
+}
+2020, 2, 8, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Probability.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977856,
+  "id": "chatcmpl-6yvGyT9GU1HIxjGfrZGOjSeTJqRI0",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 2,
+    "prompt_tokens": 328,
+    "total_tokens": 330
+  }
+}
+2020, 2, 9, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Probability, Binomial Distribution, Hypothesis Testing.\n\nPart 1:\n1. Probability.\n2. Probability, Binomial Distribution.\n3. Probability, Binomial Distribution, Hypothesis Testing.\n\nPart 2:\n1. Probability, Binomial Distribution.\n2. Probability.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977857,
+  "id": "chatcmpl-6yvGzqq2PGa3nkElhECXKChOURQZl",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 56,
+    "prompt_tokens": 594,
+    "total_tokens": 650
+  }
+}
+2021, 1, 1, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Topic: Functions\n\nWe are given information about a cubic function $f$. We will use the given information to solve for the coefficients $a$, $b$, $c$, and $d$. \n\nSince the graph of $y=f(x)$ passes through the points $(1,5)$ and $(-1,-3)$, we can write the following system of equations: \n\\begin{align*}\na+b+c+d &= 5 \\\\\n-a+b-c+d &=-3\n\\end{align*}\nAdding these two equations gives: \n\\begin{align*}\n2b+2d &= 2 \\\\\nb+d &=1\n\\end{align*}\nUsing the fact that the graph of $y=f(x)$ has a turning point at $x=1$, we know that $f'(1) = 0$ and $f''(1) < 0$. Differentiating $f(x) = ax^3 + bx^2 + cx + d$, we get $f'(x) = 3ax^2 + 2bx + c$ and $f''(x) = 6ax + 2b$. Substituting $x=1$ gives: \n\\begin{align*}\nf'(1) &= 3a + 2b + c = 0 \\\\\nf''(1) &= 6a + 2b < 0\n\\end{align*}\nWe can solve for $a$, $b$, and $c$ in terms of $d$ in the two equations from above: \n\\begin{align*}\na &= -b - c - d + 5 \\\\\nb &= 1-d \\\\\nc &= -b - 2d + 6 \n\\end{align*}\nSubstituting these expressions for $a$, $b$, and $c$ in the expression for $f(x)$, we get: \n\\begin{align*}\nf(x) &= (-b-c-d+5)x^3 + (1-d)x^2 + (-b-2d+6)x + d \\\\\n&= (-1+d)(x^2-1) + (2d-1)x + (d-1)\n\\end{align*}\nIntegrating $f(x)$ with respect to $x$ and using the fact that $\\int f(x) dx = 6$, we get: \n\\begin{align*}\n\\int f(x) dx &= \\int [(-1+d)(x^2-1) + (2d-1)x + (d-1)]dx \\\\\n&= \\left[-\\frac{1}{3}(1-d)x^3 + \\frac{2d-1}{2}x^2 + (d-1)x \\right]_a^b = 6\n\\end{align*}\nWe need to find $a$ and $b$ such that the above expression equals $6$. One way to do this is to set $a=1$ and solve for $b$:\n\\begin{align*}\n-\\frac{1}{3}(1-d) + \\frac{2d-1}{2} + d - 1 &= 6 \\\\\n\\frac{2}{3}d + \\frac{1}{2} &= 7 \\\\\nd &= \\frac{23}{12}\n\\end{align*}\nUsing this value of $d$ to solve for $b$ gives $b=\\frac{7}{12}$. Substituting $d= \\frac{23}{12}$ in the expressions for $a$ and $c$ gives $a = -1$ and $c = 2$. Thus, the values of $a$, $b$, $c$, and $d$ are: \n$$a=-1, b=\\frac{7}{12}, c=2, d=\\frac{23}{12}$$",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977862,
+  "id": "chatcmpl-6yvH4j6ketV2Tpi6BEpP3yf5U4LBW",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 810,
+    "prompt_tokens": 266,
+    "total_tokens": 1076
+  }
+}
+2021, 1, 10, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "- Differential Equations",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977912,
+  "id": "chatcmpl-6yvHsUn94UB3wrOcr9KpXp3hI3iMo",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 4,
+    "prompt_tokens": 515,
+    "total_tokens": 519
+  }
+}
+2021, 1, 11, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "- Graphing\n- Functions\n- Equations and Inequalities\n- Parametric Equations\n- Geometry\n- Area of a Region and Integrals.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977913,
+  "id": "chatcmpl-6yvHt3apmL0ckSyUrs52SVZ5gvZm1",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 33,
+    "prompt_tokens": 567,
+    "total_tokens": 600
+  }
+}
+2021, 1, 2, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Topic: Graphing, Equations and Inequalities.\n\nSubtopics: Graphing absolute value functions, finding exact solutions of absolute value equations.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977916,
+  "id": "chatcmpl-6yvHwwzCF1M6FCq1N9E91QDw5ZRHl",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 29,
+    "prompt_tokens": 255,
+    "total_tokens": 284
+  }
+}
+2021, 1, 3, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "- Differentiation and its Applications. \n\nNote: The problem involves finding the derivative of a function and using it to find the equation of a normal.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977918,
+  "id": "chatcmpl-6yvHyAyjHjvJKTnaE9WiB8bmln6Ux",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 30,
+    "prompt_tokens": 284,
+    "total_tokens": 314
+  }
+}
+2021, 1, 4, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Topic: Complex Numbers. \n\nSubtopics:\n- Modulus and argument of a complex number\n- Operations on complex numbers (multiplication)\n- Complex conjugate and its properties \n- De Moivre\u2019s Theorem for powers of complex numbers.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977921,
+  "id": "chatcmpl-6yvI1yCOajwjBoRrzzVZxktpK04h7",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 49,
+    "prompt_tokens": 421,
+    "total_tokens": 470
+  }
+}
+2021, 1, 5, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "1. Equations and Inequalities \n2. Sequences and Series \n3. Sequences and Series",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977925,
+  "id": "chatcmpl-6yvI5eA3eiPigjrm3tT0bkzetcoIx",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 22,
+    "prompt_tokens": 329,
+    "total_tokens": 351
+  }
+}
+2021, 1, 6, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "1. Graphing\n2. Functions",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977927,
+  "id": "chatcmpl-6yvI7xqXBJoUCa1U7b9ZLnQFMKa08",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 8,
+    "prompt_tokens": 310,
+    "total_tokens": 318
+  }
+}
+2021, 1, 7, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "\\textbf{Topic: Differentiation and its Applications}\n\n\\begin{enumerate}\n    \\item The question involves showing a derivative relationship which categorizes it under Differentiation and its Applications.\n    \\item The second part of the question involves finding the Maclaurin series which also categorizes it under the same topic.\n\\end{enumerate}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977929,
+  "id": "chatcmpl-6yvI9Fhgk4fBTdpNCdEy4hnj0k47n",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 70,
+    "prompt_tokens": 284,
+    "total_tokens": 354
+  }
+}
+2021, 1, 8, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Vectors.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977934,
+  "id": "chatcmpl-6yvIEdf0x3PghxBoqALtXTA9FvNCz",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 2,
+    "prompt_tokens": 509,
+    "total_tokens": 511
+  }
+}
+2021, 1, 9, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Functions, Differentiation and its Applications, Integration, Applications of Integrations - Area and Volume.\n\nNote: The problem involves multiple topics.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977935,
+  "id": "chatcmpl-6yvIF4Eh4DpcgghYn0KmdailBCC5o",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 27,
+    "prompt_tokens": 344,
+    "total_tokens": 371
+  }
+}
+2021, 2, 1, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Topic: Complex Numbers. \n\nThe other roots of the equation can be found by using conjugate pairs theorem. Since $1+\\frac{1}{2}i$ is a root, then $1-\\frac{1}{2}i$ must also be a root. Let the third root be $r$. Then, we have:\n\n\\begin{align*}\n(x-(1+\\frac{1}{2}i))(x-(1-\\frac{1}{2}i))(x-r) &= 0 \\\\\n((x-1)-\\frac{1}{2}i)((x-1)+\\frac{1}{2}i)(x-r) &= 0 \\\\\n((x-1)^{2}+\\frac{1}{4})(x-r) &= 0 \\\\\n(x^{2}-2x+1+\\frac{1}{4})(x-r) &= 0 \\\\\n(x^{2}-2x+\\frac{5}{4})(x-r) &= 0\n\\end{align*}\n\nComparing this with $x^{3}+2x^{2}+ax+b=0$, we get:\n\n\\begin{align*}\na &= 2 - 2(\\frac{5}{4}) = -1/2 \\\\\nb &= -(\\frac{5}{4})(1+\\frac{1}{2}i)(1-\\frac{1}{2}i) = -\\frac{15}{8}\n\\end{align*}\n\nTherefore, the other roots of the equation are the solutions of $x^{2}-2x+\\frac{5}{4}=0$, which are $x=1\\pm \\frac{1}{2}i$.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977937,
+  "id": "chatcmpl-6yvIHXnpkWbJY54QjhCltrII5Z7R7",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 350,
+    "prompt_tokens": 238,
+    "total_tokens": 588
+  }
+}
+2021, 2, 10, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Probability, Normal Distribution.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977961,
+  "id": "chatcmpl-6yvIftbzK5WqyEiRtr5eqWQ6aYh6u",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 5,
+    "prompt_tokens": 466,
+    "total_tokens": 471
+  }
+}
+2021, 2, 11, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "\\begin{enumerate}\n\\item The method of selection of light fittings should be random sampling since the supervisor selects a sample at random from the population of all the light fittings. This is done to eliminate bias in the selection of the sample. \n\\item[(ii)] Let $p$ be the probability that a light fitting is faulty. From the table, the total number of light fittings tested $=150\\times100=15000$ and the total number of faulty light fittings found $=268$. Therefore, the proportion of faulty light fittings found $=p=\\frac{268}{15000}=\\frac{67}{3750}$.\n\\item Let $X$ denote the number of days in a period of 150 working days on which 3 faulty fittings are found. We are given that $X$ follows the binomial distribution $B(150,p)$, where $p$ is the probability that a light fitting is faulty. Using the expectation formula for the binomial distribution, we have\n\\begin{align*}\n\\mathrm{E}(X) & =np=150\\times\\frac{67}{3750}\\\\\n & =\\frac{17}{5}.\n\\end{align*}\nTherefore, the expected number of days on which 3 faulty fittings are found in a period of 150 working days is $\\frac{17}{5}$ days.\n\\item[(a)] Two assumptions needed for $X$ to be well modelled by a binomial distribution are:\n\\begin{enumerate}\n\\item The trials are independent, i.e. the outcome of each trial does not affect the outcome of any other trial.\n\\item The probability of success $p$ is constant for each trial, i.e. the probability of a heating element being faulty is the same for each element tested.\n\\end{enumerate}\n\\item[(ii)] We are given that $X$ follows the binomial distribution $B(80,0.02)$. We need to find $P(1\\leq X\\leq4)$. Using the probability mass function of the binomial distribution, we have\n\\begin{align*}\nP(1\\leq X\\leq4) & =P(X=1)+P(X=2)+P(X=3)+P(X=4)\\\\\n & =\\binom{80}{1}(0.02)^{1}(0.98)^{79}+\\binom{80}{2}(0.02)^{2}(0.98)^{78}\\\\\n & \\quad +\\binom{80}{3}(0.02)^{3}(0.98)^{77}+\\binom{80}{4}(0.02)^{4}(0.98)^{76}\\\\\n & =0.2251.\n\\end{align*}\nTherefore, the probability that, on a randomly chosen day, the number of elements found to be faulty is between 1 and 4 inclusive is 0.2251.\n\\item Let $Y$ be the total number of elements found to be faulty in a randomly chosen 5-day working week. We need to find $P(Y>3$ on at least 2 days$)$. Using the complement rule, we have\n\\begin{align*}\nP(Y>3\\text{ on at least 2 days}) & =1-P(Y\\leq3\\text{ on 0 or 1 days})\\\\\n & =1-P(Y=0\\text{ on 5 days})-P(Y=1\\text{ on 5 days})\\\\\n & \\quad -P(Y=0\\text{ on 4 days})P(Y=1\\text{ on 1 day})\\\\\n & =1-\\binom{400}{0}(0.02)^{0}(0.98)^{400}-\\binom{400}{1}(0.02)^{1}(0.98)^{399}\\\\\n & \\quad -\\binom{320}{0}(0.02)^{0}(0.98)^{320}\\binom{80}{1}(0.02)^{1}(0.98)^{79}\\\\\n & =0.0001857.\n\\end{align*}\nTherefore, the probability that, in a randomly chosen 5-day working week, more than 3 elements are found to be faulty on at least 2 days is 0.0001857.\n\\item Let $Z$ be the total number of faulty elements found in a randomly chosen 5-day working week. We need to find $P(Z\\leq8)$. Using the complement rule, we have\n\\begin{align*}\nP(Z\\leq8) & =1-P(Z>8)\\\\\n & =1-P(Z=9)-P(Z=10)-\\cdots-P(Z=400)\\\\\n & =1-\\sum_{k=9}^{400}\\binom{400}{k}(0.02)^{k}(0.98)^{400-k}\\\\\n & =0.9483.\n\\end{align*}\nTherefore, the probability that, in a randomly chosen 5-day working week, no more than 8 faulty elements are found in total is 0.9483.\n\\end{enumerate}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679977961,
+  "id": "chatcmpl-6yvIfZmX9griyfdVamGSBMN4WbVvL",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 1104,
+    "prompt_tokens": 653,
+    "total_tokens": 1757
+  }
+}
+2021, 2, 2, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "\\begin{enumerate}\n\\item This question involves graphing and calculus (integration). The value of $h$ is $\\frac{5-1}{5}=1$. The summation in part (a) represents the area of 5 rectangles with heights equal to the function values at the right endpoints and widths equal to $h$. Since these rectangles do not perfectly fit under the curve, they will underestimate the actual area of $A$, as shown in the sketch. \n\\item Part (b) asks to find a similar expression that is greater than the area of $A$. One way to do this is to use left endpoints instead of right endpoints, giving the summation $\\sum_{n=0}^{4}(f(1+nh))h$, which represents the area of 5 rectangles with heights equal to the function values at the left endpoints and widths equal to $h$. These rectangles will overestimate the actual area of $A$, as shown in the sketch. \n\\item Part (c) uses the expressions from parts (a) and (b) to find lower and upper bounds for the area of $A$, using the function $f(x)=\\frac{1}{20}x^2+1$. This involves applying the formulas $\\text{Lower bound}= \\sum_{n=0}^{4}(f(1+nh))h$ and $\\text{Upper bound} = \\sum_{n=0}^{4}(f(1+nh+\\Delta x))h$, where $\\Delta x$ is a positive constant that shifts the rectangles to the right, thus increasing the upper bound and decreasing the lower bound. \n\\item Part (d) involves graphing a function $g(x)$ that has a smaller shaded area than the summation $\\sum_{n=0}^{4}(g(1+nh))h$. This can be achieved by drawing a function that dips below the curve of $f(x)$ in a concave-downward fashion, reducing the heights of the rectangles that make up the shaded area. \n\\end{enumerate}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679978035,
+  "id": "chatcmpl-6yvJr2SaouAJgapqTARdwB8VAawPh",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 426,
+    "prompt_tokens": 508,
+    "total_tokens": 934
+  }
+}
+2021, 2, 3, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Functions",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679978063,
+  "id": "chatcmpl-6yvKJotJErT37K5z3yGgmIhIvAnx6",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 1,
+    "prompt_tokens": 512,
+    "total_tokens": 513
+  }
+}
+2021, 2, 4, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Topic: Arithmetic and Geometric Progression Series\n\nSubtopic: Arithmetic Progression\n\nSubtopic: Geometric Progression\n\nSubtopic: Speed and Distance\n\n\\begin{enumerate}\n    \\item The first question is related to Arithmetic Progression.\n    \\item The second question is related to Geometric Progression and Speed and Distance.\n    \\item The third question is related to Speed and Distance.\n\\end{enumerate}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679978064,
+  "id": "chatcmpl-6yvKKmKcaMB2XDUGWWTyCnfwLpLbH",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 86,
+    "prompt_tokens": 491,
+    "total_tokens": 577
+  }
+}
+2021, 2, 5, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Integration.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679978070,
+  "id": "chatcmpl-6yvKQxdt7AgUVDEcsvQVwOYllCcJZ",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 2,
+    "prompt_tokens": 322,
+    "total_tokens": 324
+  }
+}
+2021, 2, 6, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "- Probability.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679978071,
+  "id": "chatcmpl-6yvKRXJNnfzh1etDBK00KTNsv8tLX",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 3,
+    "prompt_tokens": 330,
+    "total_tokens": 333
+  }
+}
+2021, 2, 7, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Permutations and Combinations. \n\n1. Finding the number of arrangements of letters.\n2. Finding the number of arrangements with specific conditions.\n3. Finding the probability of an event.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679978072,
+  "id": "chatcmpl-6yvKSyDmVOHnZVb1pF6rh35ADFU4H",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 37,
+    "prompt_tokens": 329,
+    "total_tokens": 366
+  }
+}
+2021, 2, 8, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Topic: Hypothesis Testing\n\n(a) The sales manager should carry out a left-tail test because they want to test if the life span of the tyres is greater than 20000 miles, which is a claim made by the manufacturer. The null hypothesis, $H_{0}$, is that the average life span of the tyres is 20000 miles. The alternative hypothesis, $H_{1}$, is that the average life span of the tyres is greater than 20000 miles. \n\n$H_{0}: \\mu = 20000$ \n\n$H_{1}: \\mu > 20000$ \n\n(b) The unbiased estimate of the population mean is $\\bar{x} = \\frac{\\sum x}{n} = 20 + \\frac{\\sum(x-20)}{n} = 20 + \\frac{9.4}{50} = 20.188$ thousand miles. \n\nThe unbiased estimate of the population variance is $s^{2} = \\frac{\\sum(x-\\bar{x})^{2}}{n-1} = \\frac{38.76}{50-1}= 0.8046$ thousand miles$^{2}$. \n\n(c) The test statistic is given by $T=\\frac{\\bar{x}-\\mu}{s/\\sqrt{n}}$. \n\n$T=\\frac{20.188-20000}{0.8046/\\sqrt{50}}\\approx 2.58$. \n\nUsing a t-distribution with $n-1 = 50-1 = 49$ degrees of freedom, the critical value at the 5\\% level of significance and for a left-tail test is $-1.676$. \n\nSince the test statistic is greater than the critical value, we reject the null hypothesis. Therefore, there is sufficient evidence at the 5\\% level of significance to conclude that the mean life span of front tyres is more than 20000 miles. \n\n(d) This test would be inappropriate if the sales manager had taken a random sample of 15 tyres because the sample size is small (less than 30) and the population standard deviation is unknown. In this case, a t-distribution cannot be used to find critical values and the test statistic. Instead, a student's t-distribution approximation can be used.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679978075,
+  "id": "chatcmpl-6yvKVkt0kit3pSBgrfGfInvJCIQL1",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 475,
+    "prompt_tokens": 463,
+    "total_tokens": 938
+  }
+}
+2021, 2, 9, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "- Correlation and Regression",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679978107,
+  "id": "chatcmpl-6yvL1MdUosgkNvWrwzaIHpoSg8bnx",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 5,
+    "prompt_tokens": 603,
+    "total_tokens": 608
+  }
+}
+2022, 1, 1, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Topic: Complex Numbers. \n\nThe problem involves solving for the complex numbers $z$ and $w$ using a system of linear equations.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679978108,
+  "id": "chatcmpl-6yvL2DFd8PJk2oQhPUcnLCr7j6hIj",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 28,
+    "prompt_tokens": 276,
+    "total_tokens": 304
+  }
+}
+2022, 1, 10, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "(d) In part (c), we are asked to sketch the graph of $y=ax-a$. Notice that $y=ax-a$ can be written as $y=a(x-1)$ or $x=\\frac{y}{a}+1$. Hence, we can plot the graph of $y=ax-a$ by plotting the line $x=\\frac{y}{a}+1$.\n\nTo solve the inequality $x-2-\\frac{3}{x-1}\\leq x-1$, we first simplify:\n\\begin{align*}\nx-2-\\frac{3}{x-1}&\\leq x-1\\\\\nx-2&\\leq\\frac{3}{x-1}\\\\\n(x-2)(x-1)&\\leq3\n\\end{align*}\nSince $x\\neq1$, we can divide both sides by $x-1$ (which is positive if $x>1$ and negative if $x<1$):\n\\begin{align*}\nx-2&\\leq\\frac{3}{x-1}\\\\\nx^2-3x+2&\\leq0\n\\end{align*}\nSolving the inequality $x^2-3x+2\\leq0$ gives $1\\leq x\\leq2$. Since we have $x>1$, the solution is $x\\in[1,2]$.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679978111,
+  "id": "chatcmpl-6yvL5rk7Q0vNVM7zvBejLG9L4vbLL",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 302,
+    "prompt_tokens": 438,
+    "total_tokens": 740
+  }
+}
+2022, 1, 11, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "- Vectors (finding length of a segment, angle between vector and plane)\n- Geometry (finding equation of a plane, intersection of a line and a plane)",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679978131,
+  "id": "chatcmpl-6yvLP0oAq41yvxTb4mWbuul6KA5YY",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 33,
+    "prompt_tokens": 522,
+    "total_tokens": 555
+  }
+}
+2022, 1, 12, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Equations and Inequalities, Differential Equations.\n\nSolution:\n\n(a) Let the population at time $t$ be $P$. Then the differential equation is given by\n\\begin{align*}\n\\frac{dP}{dt} &= kP,\n\\end{align*}\nwhere $k$ is the proportionality constant. Solving this equation gives\n\\begin{align*}\n\\frac{dP}{P} &= k\\, dt \\\\\n\\int\\frac{1}{P}\\, dP &= \\int k\\, dt \\\\\n\\ln|P| &= kt + C \\\\\n|P| &= e^{kt+C} \\\\\nP &= Ce^{kt},\n\\end{align*}\nwhere $C$ is the constant of integration. Using the initial condition $P(0)=50$, we have\n\\begin{align*}\n50 &= Ce^{k(0)} \\\\\n\\Rightarrow C &= 50,\n\\end{align*}\nso the solution to the differential equation is $P=50e^{kt}$.\n\n(b) Now we have the differential equation\n\\begin{align*}\n\\frac{dP}{dt} &= \\lambda P(500-P).\n\\end{align*}\nWe can separate variables and integrate:\n\\begin{align*}\n\\frac{1}{P(500-P)}\\frac{dP}{dt} &= \\lambda \\\\\n\\int\\frac{1}{P(500-P)}\\, dP &= \\int \\lambda\\, dt \\\\\n\\frac{1}{500}\\left(\\frac{1}{P}+\\frac{1}{500-P}\\right) &= \\lambda t + C \\\\\n\\frac{1}{P(500-P)} &= \\frac{500\\lambda t + C'}{P(500-P)} \\\\\n\\Rightarrow P &= \\frac{500}{1+\\frac{499}{50}e^{-500\\lambda t}},\n\\end{align*}\nwhere $C'=\\frac{C}{500}$.\n\n(c) As $t\\to\\infty$, $e^{-500\\lambda t}\\to 0$, so the population approaches the maximum carrying capacity of 500. This suggests that the refined model is an improvement over the first model, which would predict unlimited exponential growth.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679978134,
+  "id": "chatcmpl-6yvLSe3jjLIOnMzsGE3EjiFtFMFCo",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 471,
+    "prompt_tokens": 417,
+    "total_tokens": 888
+  }
+}
+2022, 1, 2, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Topic: Maclaurin's Series and Small Angle Approximations\n\n\\begin{enumerate}\n\\item $f'(x) = \\frac{1}{1+(\\sqrt{2}+x)^2}$\n    $= \\frac{1}{3+2\\sqrt{2}x+x^2}$\n\n   $f''(x) = -\\frac{2(2\\sqrt{2}+x)}{(3+2\\sqrt{2}x+x^2)^2}$\n\n\\item Using the Maclaurin series formula, we have:\n\n   $f(0) = \\tan^{-1}(\\sqrt{2}) = \\frac{\\pi}{4}$\n\n   $f'(0) = \\frac{1}{3}$\n\n   $f''(0) = -2\\sqrt{2}$\n\n   Therefore, the first three terms of the Maclaurin series for $f(x)$ are:\n\n   $f(x) \\approx \\frac{\\pi}{4}+\\frac{x}{3}-\\sqrt{2}x^2$\n\\end{enumerate}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679978165,
+  "id": "chatcmpl-6yvLxVflQdhFzbB0LVlfNIjU9HM67",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 232,
+    "prompt_tokens": 260,
+    "total_tokens": 492
+  }
+}
+2022, 1, 3, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "- Differentiation and its Applications\n- Equations and Inequalities.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679978182,
+  "id": "chatcmpl-6yvMEoIPbCvJT16IdXr0G8bvdg16d",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 15,
+    "prompt_tokens": 320,
+    "total_tokens": 335
+  }
+}
+2022, 1, 4, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Topic: Differentiation and its Applications\n\nGiven Solution:\n\n(a)\n\\begin{align*}\n\\frac{d}{dx}\\left(\\cot x\\right)&=\\frac{d}{dx}\\left(\\frac{\\cos x}{\\sin x}\\right)\\\\\n&=\\frac{-\\sin x}{\\sin^{2}x}\\\\\n&=-\\mathrm{cosec}^{2}x.\n\\end{align*}\n\n(b)\n\\begin{align*}\n\\sin2x\\tan x&=2\\sin x\\cos x\\cdot\\frac{\\sin x}{\\cos x}\\\\\n&=2\\sin^{2}x.\n\\end{align*}\n\n(c)\n\\begin{align*}\n\\int_{\\frac{\\pi}{18}}^{\\frac{\\pi}{9}}\\mathrm{cosec}6x\\cot3x\\,dx&=\\int_{\\frac{\\pi}{18}}^{\\frac{\\pi}{9}}\\frac{\\cos3x}{\\sin6x}\\cdot\\frac{\\sin3x}{\\cos3x}\\,dx\\\\\n&=\\int_{\\frac{\\pi}{18}}^{\\frac{\\pi}{9}}\\frac{\\sin3x}{\\sin6x}\\,dx\\\\\n&=\\left[-\\frac{1}{6}\\ln\\left|\\cos3x-\\sin3x\\right|\\right]_{\\frac{\\pi}{18}}^{\\frac{\\pi}{9}}\\\\\n&=\\boxed{\\frac{1}{6}\\ln3}.\\\\\n\\end{align*}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679978184,
+  "id": "chatcmpl-6yvMGW5BeRJ0YAGsfZbMbtzbm3rNh",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 335,
+    "prompt_tokens": 297,
+    "total_tokens": 632
+  }
+}
+2022, 1, 5, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Functions.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679978207,
+  "id": "chatcmpl-6yvMdDRQuBuBMwftia8a50zbaOsME",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 2,
+    "prompt_tokens": 327,
+    "total_tokens": 329
+  }
+}
+2022, 1, 6, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "\\begin{enumerate}\n    \\item Graphing, Functions\n    \\item Functions\n    \\item Functions\n    \\item Functions\n\\end{enumerate}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679978208,
+  "id": "chatcmpl-6yvMeK7rIePZ7uiFnXpge1PO0FCV2",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 33,
+    "prompt_tokens": 353,
+    "total_tokens": 386
+  }
+}
+2022, 1, 7, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "\\subsubsection*{Differentiation and its Applications}\n\n\\begin{enumerate}\n    \\item This part requires finding the first derivative of the function $y=x^{-3}\\ln x$. Thus, belongs to the topic of Differentiation and its Applications.\n    \\item This part requires finding the area enclosed by a curve and some of its bounding lines. Hence, it belongs to the Applications of Integrations - Area and Volume.\n\\end{enumerate}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679978211,
+  "id": "chatcmpl-6yvMhuv7X1d5utfewRMhdhGOVlFXy",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 91,
+    "prompt_tokens": 272,
+    "total_tokens": 363
+  }
+}
+2022, 1, 8, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Integration.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679978217,
+  "id": "chatcmpl-6yvMnaak8XdulPjeBOS1YTfxisHA7",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 2,
+    "prompt_tokens": 257,
+    "total_tokens": 259
+  }
+}
+2022, 1, 9, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "- Sequences and Series.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679978218,
+  "id": "chatcmpl-6yvMou7GOCmiUaykJKdC8adIpkR1M",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 6,
+    "prompt_tokens": 365,
+    "total_tokens": 371
+  }
+}
+2022, 2, 1, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Topic: Integration\n\nWe can solve this integral using substitution method. Let $u = \\sqrt{x+2}$, then $du/dx = 1/(2\\sqrt{x+2})$, i.e., $dx = 2u\\,du$. Also, $x = u^2-2$. Substituting these into the given integral, we get\n\n$$\n\\begin{aligned}\n\\int\\frac{x}{\\sqrt{x+2}}dx &= \\int \\frac{(u^2-2)}{u}\\,2u\\,du = 2\\int (u^2-2)du \\\\\n& = \n\\frac{2}{3}u^3 - 4u + C\\\\\n&= \\frac{2}{3}(x+2)^{3/2} - 4\\sqrt{x+2} + C.\n\\end{aligned}\n$$\n\nTherefore, $\\int\\frac{x}{\\sqrt{x+2}}\\,dx = \\frac{2}{3}(x+2)^{3/2} - 4\\sqrt{x+2} + C$.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679978219,
+  "id": "chatcmpl-6yvMppmI1iJG7AySEMLaIftr5au1p",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 236,
+    "prompt_tokens": 200,
+    "total_tokens": 436
+  }
+}
+2022, 2, 10, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "\\begin{enumerate}\n\\item[(a)] Topic: Correlation and Regression\n\nSince the product moment correlation coefficient between the distance $d$ and the price $p$ is negative and close to -1, this suggests a strong negative linear relationship between $d$ and $p$. In other words, as the distance driven by a car increases, the price of the car tends to decrease. However, as the correlation coefficient is not exactly -1, there may be some unexplained variability in the relationship that is not captured by the linear model.\n\n\\item[(b)] Topic: Correlation and Regression\n\nThe product moment correlation coefficient would not differ if Adriana converted the units of distance and price, since the correlation coefficient is a unitless measure that is unaffected by changes in units.\n\n\\item[(c)] Topic: Correlation and Regression\n\nThe data for the special car should not be used in any analysis of the data because it is an outlier - it has a much higher price than the other cars with similar distances driven. Including an outlier in the analysis can significantly affect the results and interpretation of a regression model.\n\n\\item[(d)] Topic: Correlation and Regression\n\nA reciprocal transformation of the distance $d$ could be $\\frac{10000}{d}$, which would make the relationship between $p$ and $\\frac{10000}{d}$ approximately linear. Drawing a scatter diagram with $p$ on the vertical axis and $\\frac{10000}{d}$ on the horizontal axis, and a line of best fit, is a way to visually assess the linearity of the relationship and see if there are any outliers.\n\n\\item[(e)] Topic: Correlation and Regression\n\nThe distances used in drawing the least squares regression line of $p$ on $\\frac{100000}{d}$ are the distances of the remaining 6 cars in the dataset, without the special car with $d=5055$ and $p=22500$. These distances are squared because the method of least squares seeks to minimize the sum of the squared residuals (the differences between the observed prices and the predicted prices from the regression line). The method of least squares is used to obtain the equation of the line of best fit that best fits the observed data points.\n\n\\item[(f)] Topic: Correlation and Regression\n\nUsing a calculator to find the equation of the least squares regression line of $p$ on $\\frac{100000}{d}$ and the value of the corresponding product moment correlation coefficient requires knowledge of regression analysis. The formula for the slope of the regression line is given by $b=r\\frac{s_{y}}{s_{x}}$, where $r$ is the sample correlation coefficient, $s_{x}$ is the sample standard deviation of the independent variable, and $s_{y}$ is the sample standard deviation of the dependent variable. The formula for the intercept of the regression line is given by $a=\\bar{y}-b\\bar{x}$. The product moment correlation coefficient $r$ is given in the question as -0.78. Using these formulas with the data (excluding the special car), we obtain:\n\n$$b=-0.0101,\\quad a=14518.33,\\quad r=-0.78$$\n\nSo the equation of the least squares regression line of $p$ on $\\frac{100000}{d}$ is $p=14518.33-0.0101\\left(\\frac{100000}{d}\\right)$, and the correlation coefficient is -0.78.\n\n\\item[(g)] Topic: Correlation and Regression\n\nUsing the equation of the least squares regression line from part (f), we can estimate the price of a car of this make and model that has traveled 5055 miles:\n\n$$p=14518.33-0.0101\\left(\\frac{100000}{5055}\\right)\\approx 15512$$\n\nThis estimate may not be reliable since it is based on a linear relationship and assumes that the relationship between distance and price is similar for all cars of the same make and model. It is also based on a model that includes some unexplained variation, so there may be some error in the estimate. Additionally, we should be cautious about extrapolating outside the range of the data - this estimate is based on a value of distance that is outside the range of distances in the dataset, so it may not accurately reflect the true relationship between distance and price.  Overall, the estimate may be useful as a rough guide, but we should be careful about relying too heavily on it.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679978235,
+  "id": "chatcmpl-6yvN525lCvfXhylPlyeqJ5DJhct5d",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 933,
+    "prompt_tokens": 897,
+    "total_tokens": 1830
+  }
+}
+2022, 2, 11, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Probability, Statistics, Hypothesis Testing.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679978297,
+  "id": "chatcmpl-6yvO5CY8R46fjZ20D3uY8DoHJm1PJ",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 9,
+    "prompt_tokens": 674,
+    "total_tokens": 683
+  }
+}
+2022, 2, 2, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Topic: Equations and Inequalities\n\nSubtopics:\n- Linear equations\n- Quadratic equations\n- Algebraic manipulations\n- Rates of change",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679978299,
+  "id": "chatcmpl-6yvO7SJMy28g2BhAMV8NiWFVGVQca",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 31,
+    "prompt_tokens": 455,
+    "total_tokens": 486
+  }
+}
+2022, 2, 3, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "\\begin{enumerate}\n    \\item Modulus of $z_1 = |\\,z_1| = \\sqrt{3^2 + (-\\sqrt{3})^2} = 2\\sqrt{3}$. Argument of $z_1 = \\theta = \\tan^{-1} \\left(\\frac{-\\sqrt{3}}{3}\\right) +2\\pi k$, where $k$ is an integer. Since $-\\frac{\\pi}{2} < \\theta < 0$, we have $\\theta = -\\frac{\\pi}{3}$. Modulus of $z_2 = |\\,z_2| = \\frac{1}{2}$. Argument of $z_2 = \\frac{2\\pi}{5}$. Therefore, $z_3 = z_1 \\times z_2 = 2\\sqrt{3} - 2\\sqrt{3}\\, i$. Modulus of $z_3 = |\\,z_3| = 4$. Argument of $z_3$ is $\\tan^{-1}\\left(\\frac{-\\sqrt{3}}{3+2\\sqrt{3}}\\right) = -\\frac{\\pi}{6}$ (since $-\\frac{\\pi}{2} < \\theta < 0$).\n    \\item The Argand diagram is as shown below:\n    \\begin{center}\n    \\begin{tikzpicture}\n    \\begin{axis}[\n        ticks=none,\n        axis x line=middle,\n        axis y line=middle,\n        ymin=-3,ymax=3,\n        xlabel=$\\operatorname{Re}$,\n        ylabel=$\\operatorname{Im}$]\n        \\addplot+[only marks] coordinates {(3, -sqrt(3)/2) (0.5*cos(72), 0.5*sin(72)) (4*cos(-pi/6), 4*sin(-pi/6))};\n        \\node [left] at (3, -sqrt(3)/2) {$z_1$};\n        \\node [above right] at (0.5*cos(72), 0.5*sin(72)) {$z_2$};\n        \\node [right] at (4*cos(-pi/6), 4*sin(-pi/6)) {$z_3$};\n    \\end{axis}\n    \\end{tikzpicture}\n    \\end{center}\n    \\item We need $z_3^n$ to be purely imaginary. This means the argument of $z_3^n$ must be either $-\\frac{\\pi}{2}$ or $\\frac{\\pi}{2}$. Let $z_3^n = r \\text{ cis}\\, \\theta$. Then, $r = |z_3|^n = 4^n$. Since $\\arg(z_3) = -\\frac{\\pi}{6}$, we have $\\arg(z_3^n) = n \\times -\\frac{\\pi}{6} = -\\frac{n\\pi}{6}$. Hence, we need $\\frac{n\\pi}{6} = \\frac{\\pi}{2} + p\\pi$ for some integer $p$. Solving for $n$ gives $n=5$. Therefore, $z_3^5$ is purely imaginary. Also, $|z_3^5| = 4^5 = 1024$ and $\\arg(z_3^5) = -\\frac{5\\pi}{6}$. Thus, $z_3^5 = 1024\\text{ cis}\\, \\left(-\\frac{5\\pi}{6}\\right)$.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679978301,
+  "id": "chatcmpl-6yvO9Xepwra952ZPiQVAInLPIOzcI",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 771,
+    "prompt_tokens": 389,
+    "total_tokens": 1160
+  }
+}
+2022, 2, 4, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Functions",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679978353,
+  "id": "chatcmpl-6yvOzwlWKEwKCYYRpdqqq2boiLVwR",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 1,
+    "prompt_tokens": 406,
+    "total_tokens": 407
+  }
+}
+2022, 2, 5, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Topic: Integration, Applications of Integration - Area and Volume\n\nSubtopics: Solids of revolution, Spherical cap, Volume of a sphere\n\n(a) The volume of the spherical cap can be found by slicing it into thin discs and integrating over the radius, from $r-h$ to $r$. The radius of each disc varies depending on the distance of the disc from the $y$-axis, which is given by $x$. \n\nThe equation of the circle is $x^2+y^2=r^2$. Substituting $y=r-h$, we get $x^2+(r-h)^2=r^2$. Simplifying this, we have $x=\\sqrt{2rh-h^2}$. Hence, the volume of the spherical cap is:\n\n\\begin{align*}\nV &= \\pi\\int_{r-h}^{r}\\left(\\sqrt{r^{2}-x^{2}}-r+h\\right)^{2}\\mathrm{d}x\\\\\n&= \\pi\\int_{r-h}^{r}(r^2-x^2+h^2-2rh+2hx)\\mathrm{d}x\\\\\n&= \\pi\\left[r^2x-\\frac{1}{3}x^3+h^2x-2rhx+hx^2\\right]^{r}_{r-h}\\\\\n&= \\pi h^2 (3r-h)/3.\n\\end{align*}\n\n(b) Using the result from part (a), the volume of the ornament can be expressed as:\n\n\\begin{align*}\nV &= \\frac{4}{3}\\pi(15^3) - \\frac{1}{3}\\pi p^2(3(15)-p) - \\frac{1}{3}\\pi (3p)^2(15-3p)\\\\\n&= 4,500\\pi - \\pi p^2 (45-4p).\n\\end{align*}\n\nSimplifying this, we get the cubic equation:\n\n$$\\pi p^3 - 180\\pi p^2 + 6075\\pi p - 40824\\pi = 0.$$\n\nUsing a calculator or numerical methods, we get $p \\approx 8.106$ cm.\n\n(c) The second ornament is a frustum of a sphere, which can be found by removing a smaller sphere from a larger sphere. The radius of the smaller sphere is the same as the top face radius of the ornament in part (b), which is $R-p=15-8.106=6.894$ cm. The radius of the larger sphere is the same as the bottom face radius of the ornament in part (b), which is $15$ cm.\n\nThe volume of the frustum can be found using the formula:\n\n$$V = \\frac{\\pi h}{3}(R^2+Rr+r^2),$$\n\nwhere $h$ is the height of the frustum, $R$ is the radius of the larger sphere, $r$ is the radius of the smaller sphere, and $R>r$.\n\nSubstituting the given values, we get:\n\n$$V = \\frac{\\pi}{3}(15-6.894)(15^2+15\\cdot 6.894+6.894^2).$$\n\nSimplifying this, we get:\n\n$$V = 2246.878\\pi.$$",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679978353,
+  "id": "chatcmpl-6yvOz1damgkjJd63ojLPtWfZHliOl",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 711,
+    "prompt_tokens": 641,
+    "total_tokens": 1352
+  }
+}
+2022, 2, 6, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Topic: Probability\n\n\nSubtopic: Discrete Random Variables, Binomial Distribution\n\n\n1. P(Anil wins) \n2. P(Babs wins on her second throw | Babs wins the game)",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679978401,
+  "id": "chatcmpl-6yvPl1DkbxqzIzLMR46I6VqIeGGVM",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 42,
+    "prompt_tokens": 276,
+    "total_tokens": 318
+  }
+}
+2022, 2, 7, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "- Data Collection: The company owner wishes to find out about the qualifications of the employees in Staffing, she gives a questionnaire to all 75 employees in this department.\n- Sampling: Explain whether 53 employees who replied form a population or a sample.\n- Sampling Methods: The company owner wishes to investigate the views of employees about the refreshment facilities but does not have time to ask every employee. Explain how she should carry out her investigation and why she should do the investigation in this way.\n- Counting: Find the number of ways in which a working party of 8 Team Leaders can be formed so that there is at least one Team Leader from each of the 4 departments AND there are more Team Leaders from Administration in the working party than from any other single department.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679978404,
+  "id": "chatcmpl-6yvPobrJbrrVMuI7OIsqKSJWL2lhL",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 156,
+    "prompt_tokens": 435,
+    "total_tokens": 591
+  }
+}
+2022, 2, 8, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Probability",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679978415,
+  "id": "chatcmpl-6yvPz3ziz6vyNdz7QLerS7YpYdW5z",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 1,
+    "prompt_tokens": 423,
+    "total_tokens": 424
+  }
+}
+2022, 2, 9, {
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Topic: Probability. \n\nSubtopics: Simple Probability, Conditional Probability, and Probability Distributions.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1679978416,
+  "id": "chatcmpl-6yvQ07ZFLJQev4jEhX9fwj0FL9Bpm",
+  "model": "gpt-3.5-turbo-0301",
+  "object": "chat.completion",
+  "usage": {
+    "completion_tokens": 19,
+    "prompt_tokens": 503,
+    "total_tokens": 522
+  }
+}
