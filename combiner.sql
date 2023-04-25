@@ -1,4 +1,4 @@
-SELECT TYS.YEAR, TYS.PAPER, TYS."PAPER NO", TYS."QUESTION NO", TYS.TOPIC,
+SELECT TYS.YEAR, TYS.PAPER, TYS."PAPER NO", TYS."QUESTION NO", TRIM(TYS.TOPIC) as 'TOPIC',
 		TRIM(ADA.PREDICTED_TOPIC) as "ADA_TOPIC", TRIM("GPT3.5".PREDICTED_TOPIC) as "GPT_TOPIC", TRIM("all-distilroberta-v1".PREDICTED_TOPIC) as "all-distilroberta-v1_TOPIC",
 		TRIM("all-MiniLM-L12-v1".PREDICTED_TOPIC) as "all-MiniLM-L12-v1_TOPIC", TRIM("all-mpnet-base-v2".PREDICTED_TOPIC) as "all-mpnet-base-v2_TOPIC",
 		TRIM("gtr-t5-base".PREDICTED_TOPIC) as "gtr-t5-base_TOPIC", TRIM("sentence-t5-base".PREDICTED_TOPIC) as "sentence-t5-base_TOPIC"
